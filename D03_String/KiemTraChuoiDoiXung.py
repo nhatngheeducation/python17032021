@@ -32,3 +32,7 @@ print("Chuoi: ", chuoi[:-1])
 
 print(chuoi[2::], chuoi[2:])
 print(chuoi[-2::], chuoi[-2:])
+
+t = chuoi.encode("utf-8")
+print(t)
+print(t.decode('utf-8'))
