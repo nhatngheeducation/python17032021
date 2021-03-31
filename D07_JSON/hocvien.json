@@ -1,0 +1,19 @@
+{
+    "hoTen": "Nh\u1ea5t Ngh\u1ec7",
+    "dienThoai": 939123456,
+    "gioiTinh": false,
+    "khoaHoc": [
+        {
+            "ten": "Python",
+            "ngayKg": "19/03/2021"
+        },
+        {
+            "ten": "WebAPI",
+            "ngayKg": "22/03/2021"
+        },
+        {
+            "ten": "ASP.NET Core",
+            "ngayKg": "29/03/2021"
+        }
+    ]
+}
