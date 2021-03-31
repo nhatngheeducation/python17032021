@@ -1,0 +1,4750 @@
+[
+    {
+        "matinh": 1,
+        "tentinh": "Tiền Giang",
+        "short_name": "/tien-giang",
+        "quan_huyen": [
+            {
+                "maqh": 279,
+                "tenqh": "Huyện Cái Bè",
+                "short_name": "/tien-giang/huyen-cai-be"
+            },
+            {
+                "maqh": 1,
+                "tenqh": "Thị Xã Cai Lậy",
+                "short_name": "/tien-giang/thi-xa-cai-lay"
+            },
+            {
+                "maqh": 570,
+                "tenqh": "Huyện Cai Lậy",
+                "short_name": "/tien-giang/huyen-cai-lay"
+            },
+            {
+                "maqh": 278,
+                "tenqh": "Huyện Châu Thành",
+                "short_name": "/tien-giang/huyen-chau-thanh"
+            },
+            {
+                "maqh": 277,
+                "tenqh": "Huyện Chợ Gạo",
+                "short_name": "/tien-giang/huyen-cho-gao"
+            },
+            {
+                "maqh": 385,
+                "tenqh": "Thị Xã Gò Công",
+                "short_name": "/tien-giang/thi-xa-go-cong"
+            },
+            {
+                "maqh": 571,
+                "tenqh": "Huyện Gò Công Đông",
+                "short_name": "/tien-giang/huyen-go-cong-dong"
+            },
+            {
+                "maqh": 580,
+                "tenqh": "Huyện Gò Công Tây",
+                "short_name": "/tien-giang/huyen-go-cong-tay"
+            },
+            {
+                "maqh": 688,
+                "tenqh": "Huyện Tân Phú Đông",
+                "short_name": "/tien-giang/huyen-tan-phu-dong"
+            },
+            {
+                "maqh": 572,
+                "tenqh": "Tỉnh Tiền Giang",
+                "short_name": "/tien-giang/tinh-tien-giang"
+            },
+            {
+                "maqh": 372,
+                "tenqh": "Huyện Tân Phước",
+                "short_name": "/tien-giang/huyen-tan-phuoc"
+            },
+            {
+                "maqh": 289,
+                "tenqh": "Thành Phố Mỹ Tho",
+                "short_name": "/tien-giang/thanh-pho-my-tho"
+            }
+        ]
+    },
+    {
+        "matinh": 2,
+        "tentinh": "Hưng Yên",
+        "short_name": "/hung-yen",
+        "quan_huyen": [
+            {
+                "maqh": 550,
+                "tenqh": "Huyện Ân Thi",
+                "short_name": "/hung-yen/huyen-an-thi"
+            },
+            {
+                "maqh": 240,
+                "tenqh": "Huyện Khoái Châu",
+                "short_name": "/hung-yen/huyen-khoai-chau"
+            },
+            {
+                "maqh": 555,
+                "tenqh": "Huyện Phù Cừ",
+                "short_name": "/hung-yen/huyen-phu-cu"
+            },
+            {
+                "maqh": 301,
+                "tenqh": "Huyện Kim Động",
+                "short_name": "/hung-yen/huyen-kim-dong"
+            },
+            {
+                "maqh": 300,
+                "tenqh": "Huyện Văn Giang",
+                "short_name": "/hung-yen/huyen-van-giang"
+            },
+            {
+                "maqh": 5,
+                "tenqh": "Huyện Mỹ Hào",
+                "short_name": "/hung-yen/huyen-my-hao"
+            },
+            {
+                "maqh": 865,
+                "tenqh": "Thị Xã Mỹ Hào",
+                "short_name": "/hung-yen/thi-xa-my-hao"
+            },
+            {
+                "maqh": 3,
+                "tenqh": "Thành Phố Hưng Yên",
+                "short_name": "/hung-yen/thanh-pho-hung-yen"
+            },
+            {
+                "maqh": 658,
+                "tenqh": "Tỉnh Hưng Yên",
+                "short_name": "/hung-yen/tinh-hung-yen"
+            },
+            {
+                "maqh": 2,
+                "tenqh": "Huyện Yên Mỹ",
+                "short_name": "/hung-yen/huyen-yen-my"
+            },
+            {
+                "maqh": 39,
+                "tenqh": "Huyện Văn Lâm",
+                "short_name": "/hung-yen/huyen-van-lam"
+            },
+            {
+                "maqh": 586,
+                "tenqh": "Huyện Tiên Lữ",
+                "short_name": "/hung-yen/huyen-tien-lu"
+            }
+        ]
+    },
+    {
+        "matinh": 3,
+        "tentinh": "Hà Nội",
+        "short_name": "/ha-noi",
+        "quan_huyen": [
+            {
+                "maqh": 135,
+                "tenqh": "Huyện Đông Anh",
+                "short_name": "/ha-noi/huyen-dong-anh"
+            },
+            {
+                "maqh": 73,
+                "tenqh": "Quận Ba Đình",
+                "short_name": "/ha-noi/quan-ba-dinh"
+            },
+            {
+                "maqh": 134,
+                "tenqh": "Quận Hai Bà Trưng",
+                "short_name": "/ha-noi/quan-hai-ba-trung"
+            },
+            {
+                "maqh": 427,
+                "tenqh": "Huyện Ba Vì",
+                "short_name": "/ha-noi/huyen-ba-vi"
+            },
+            {
+                "maqh": 97,
+                "tenqh": "Quận Bắc Từ Liêm",
+                "short_name": "/ha-noi/quan-bac-tu-liem"
+            },
+            {
+                "maqh": 182,
+                "tenqh": "Quận Long Biên",
+                "short_name": "/ha-noi/quan-long-bien"
+            },
+            {
+                "maqh": 29,
+                "tenqh": "Quận Cầu Giấy",
+                "short_name": "/ha-noi/quan-cau-giay"
+            },
+            {
+                "maqh": 895,
+                "tenqh": "Chưa rõ",
+                "short_name": "/ha-noi/chua-ro"
+            },
+            {
+                "maqh": 28,
+                "tenqh": "Huyện Chương Mỹ",
+                "short_name": "/ha-noi/huyen-chuong-my"
+            },
+            {
+                "maqh": 25,
+                "tenqh": "Quận Đống Đa",
+                "short_name": "/ha-noi/quan-dong-da"
+            },
+            {
+                "maqh": 291,
+                "tenqh": "Huyện Đan Phượng",
+                "short_name": "/ha-noi/huyen-dan-phuong"
+            },
+            {
+                "maqh": 24,
+                "tenqh": "Quận Hà Đông",
+                "short_name": "/ha-noi/quan-ha-dong"
+            },
+            {
+                "maqh": 889,
+                "tenqh": "Thị Xã Hà Đông",
+                "short_name": "/ha-noi/thi-xa-ha-dong"
+            },
+            {
+                "maqh": 115,
+                "tenqh": "Huyện Hoài Đức",
+                "short_name": "/ha-noi/huyen-hoai-duc"
+            },
+            {
+                "maqh": 342,
+                "tenqh": "Huyện Mỹ Đức",
+                "short_name": "/ha-noi/huyen-my-duc"
+            },
+            {
+                "maqh": 30,
+                "tenqh": "Huyện Gia Lâm",
+                "short_name": "/ha-noi/huyen-gia-lam"
+            },
+            {
+                "maqh": 660,
+                "tenqh": "Thành Phố Hà Nội",
+                "short_name": "/ha-noi/thanh-pho-ha-noi"
+            },
+            {
+                "maqh": 124,
+                "tenqh": "Quận Tây Hồ",
+                "short_name": "/ha-noi/quan-tay-ho"
+            },
+            {
+                "maqh": 343,
+                "tenqh": "Huyện Ứng Hoà",
+                "short_name": "/ha-noi/huyen-ung-hoa"
+            },
+            {
+                "maqh": 27,
+                "tenqh": "Quận Hoàn Kiếm",
+                "short_name": "/ha-noi/quan-hoan-kiem"
+            },
+            {
+                "maqh": 133,
+                "tenqh": "Quận Hoàng Mai",
+                "short_name": "/ha-noi/quan-hoang-mai"
+            },
+            {
+                "maqh": 71,
+                "tenqh": "Huyện Thanh Trì",
+                "short_name": "/ha-noi/huyen-thanh-tri"
+            },
+            {
+                "maqh": 72,
+                "tenqh": "Huyện Thường Tín",
+                "short_name": "/ha-noi/huyen-thuong-tin"
+            },
+            {
+                "maqh": 148,
+                "tenqh": "Huyện Thạch Thất",
+                "short_name": "/ha-noi/huyen-thach-that"
+            },
+            {
+                "maqh": 198,
+                "tenqh": "Huyện Mê Linh",
+                "short_name": "/ha-noi/huyen-me-linh"
+            },
+            {
+                "maqh": 220,
+                "tenqh": "Huyện Sóc Sơn",
+                "short_name": "/ha-noi/huyen-soc-son"
+            },
+            {
+                "maqh": 256,
+                "tenqh": "Huyện Thanh Oai",
+                "short_name": "/ha-noi/huyen-thanh-oai"
+            },
+            {
+                "maqh": 294,
+                "tenqh": "Huyện Phú Xuyên",
+                "short_name": "/ha-noi/huyen-phu-xuyen"
+            },
+            {
+                "maqh": 320,
+                "tenqh": "Huyện Phúc Thọ",
+                "short_name": "/ha-noi/huyen-phuc-tho"
+            },
+            {
+                "maqh": 424,
+                "tenqh": "Huyện Quốc Oai",
+                "short_name": "/ha-noi/huyen-quoc-oai"
+            },
+            {
+                "maqh": 659,
+                "tenqh": "Huyện Từ Liêm",
+                "short_name": "/ha-noi/huyen-tu-liem"
+            },
+            {
+                "maqh": 4,
+                "tenqh": "Quận Nam Từ Liêm",
+                "short_name": "/ha-noi/quan-nam-tu-liem"
+            },
+            {
+                "maqh": 913,
+                "tenqh": "Thôn Yên Lộ",
+                "short_name": "/ha-noi/thon-yen-lo"
+            },
+            {
+                "maqh": 26,
+                "tenqh": "Quận Thanh Xuân",
+                "short_name": "/ha-noi/quan-thanh-xuan"
+            },
+            {
+                "maqh": 429,
+                "tenqh": "Thị Xã Sơn Tây",
+                "short_name": "/ha-noi/thi-xa-son-tay"
+            }
+        ]
+    },
+    {
+        "matinh": 4,
+        "tentinh": "TP Hồ Chí Minh",
+        "short_name": "/tp-ho-chi-minh",
+        "quan_huyen": [
+            {
+                "maqh": 9,
+                "tenqh": "Quận 1",
+                "short_name": "/tp-ho-chi-minh/quan-1"
+            },
+            {
+                "maqh": 15,
+                "tenqh": "Quận 10",
+                "short_name": "/tp-ho-chi-minh/quan-10"
+            },
+            {
+                "maqh": 14,
+                "tenqh": "Quận 11",
+                "short_name": "/tp-ho-chi-minh/quan-11"
+            },
+            {
+                "maqh": 76,
+                "tenqh": "Quận 12",
+                "short_name": "/tp-ho-chi-minh/quan-12"
+            },
+            {
+                "maqh": 8,
+                "tenqh": "Quận 2",
+                "short_name": "/tp-ho-chi-minh/quan-2"
+            },
+            {
+                "maqh": 6,
+                "tenqh": "Quận 3",
+                "short_name": "/tp-ho-chi-minh/quan-3"
+            },
+            {
+                "maqh": 10,
+                "tenqh": "Quận 4",
+                "short_name": "/tp-ho-chi-minh/quan-4"
+            },
+            {
+                "maqh": 18,
+                "tenqh": "Quận 5",
+                "short_name": "/tp-ho-chi-minh/quan-5"
+            },
+            {
+                "maqh": 160,
+                "tenqh": "Quận 6",
+                "short_name": "/tp-ho-chi-minh/quan-6"
+            },
+            {
+                "maqh": 31,
+                "tenqh": "Quận 7",
+                "short_name": "/tp-ho-chi-minh/quan-7"
+            },
+            {
+                "maqh": 12,
+                "tenqh": "Quận 8",
+                "short_name": "/tp-ho-chi-minh/quan-8"
+            },
+            {
+                "maqh": 132,
+                "tenqh": "Quận 9",
+                "short_name": "/tp-ho-chi-minh/quan-9"
+            },
+            {
+                "maqh": 161,
+                "tenqh": "Huyện Nhà Bè",
+                "short_name": "/tp-ho-chi-minh/huyen-nha-be"
+            },
+            {
+                "maqh": 7,
+                "tenqh": "Quận Bình Tân",
+                "short_name": "/tp-ho-chi-minh/quan-binh-tan"
+            },
+            {
+                "maqh": 13,
+                "tenqh": "Huyện Bình Chánh",
+                "short_name": "/tp-ho-chi-minh/huyen-binh-chanh"
+            },
+            {
+                "maqh": 17,
+                "tenqh": "Quận Bình Thạnh",
+                "short_name": "/tp-ho-chi-minh/quan-binh-thanh"
+            },
+            {
+                "maqh": 75,
+                "tenqh": "Quận Tân Bình",
+                "short_name": "/tp-ho-chi-minh/quan-tan-binh"
+            },
+            {
+                "maqh": 406,
+                "tenqh": "Huyện Cần Giờ",
+                "short_name": "/tp-ho-chi-minh/huyen-can-gio"
+            },
+            {
+                "maqh": 80,
+                "tenqh": "Huyện Củ Chi",
+                "short_name": "/tp-ho-chi-minh/huyen-cu-chi"
+            },
+            {
+                "maqh": 657,
+                "tenqh": "Thành Phố Hồ Chí Minh",
+                "short_name": "/tp-ho-chi-minh/thanh-pho-ho-chi-minh"
+            },
+            {
+                "maqh": 16,
+                "tenqh": "Quận Thủ Đức",
+                "short_name": "/tp-ho-chi-minh/quan-thu-duc"
+            },
+            {
+                "maqh": 915,
+                "tenqh": "Thành Phố Thủ Đức",
+                "short_name": "/tp-ho-chi-minh/thanh-pho-thu-duc"
+            },
+            {
+                "maqh": 917,
+                "tenqh": "Huyện Thủ Đức",
+                "short_name": "/tp-ho-chi-minh/huyen-thu-duc"
+            },
+            {
+                "maqh": 74,
+                "tenqh": "Quận Gò Vấp",
+                "short_name": "/tp-ho-chi-minh/quan-go-vap"
+            },
+            {
+                "maqh": 77,
+                "tenqh": "Huyện Hóc Môn",
+                "short_name": "/tp-ho-chi-minh/huyen-hoc-mon"
+            },
+            {
+                "maqh": 78,
+                "tenqh": "Quận Phú Nhuận",
+                "short_name": "/tp-ho-chi-minh/quan-phu-nhuan"
+            },
+            {
+                "maqh": 79,
+                "tenqh": "Quận Tân Phú",
+                "short_name": "/tp-ho-chi-minh/quan-tan-phu"
+            }
+        ]
+    },
+    {
+        "matinh": 5,
+        "tentinh": "Cà Mau",
+        "short_name": "/ca-mau",
+        "quan_huyen": [
+            {
+                "maqh": 910,
+                "tenqh": "Khóm 2",
+                "short_name": "/ca-mau/khom-2"
+            },
+            {
+                "maqh": 195,
+                "tenqh": "Huyện Thới Bình",
+                "short_name": "/ca-mau/huyen-thoi-binh"
+            },
+            {
+                "maqh": 11,
+                "tenqh": "Thành Phố  Cà Mau",
+                "short_name": "/ca-mau/thanh-pho-ca-mau"
+            },
+            {
+                "maqh": 729,
+                "tenqh": "Tỉnh Cà Mau",
+                "short_name": "/ca-mau/tinh-ca-mau"
+            },
+            {
+                "maqh": 281,
+                "tenqh": "Huyện Cái Nước",
+                "short_name": "/ca-mau/huyen-cai-nuoc"
+            },
+            {
+                "maqh": 249,
+                "tenqh": "Huyện Năm Căn",
+                "short_name": "/ca-mau/huyen-nam-can"
+            },
+            {
+                "maqh": 896,
+                "tenqh": "Chưa rõ",
+                "short_name": "/ca-mau/chua-ro"
+            },
+            {
+                "maqh": 127,
+                "tenqh": "Huyện Đầm Dơi",
+                "short_name": "/ca-mau/huyen-dam-doi"
+            },
+            {
+                "maqh": 174,
+                "tenqh": "Huyện Ngọc Hiển",
+                "short_name": "/ca-mau/huyen-ngoc-hien"
+            },
+            {
+                "maqh": 324,
+                "tenqh": "Huyện Trần Văn Thời",
+                "short_name": "/ca-mau/huyen-tran-van-thoi"
+            },
+            {
+                "maqh": 511,
+                "tenqh": "Huyện U Minh",
+                "short_name": "/ca-mau/huyen-u-minh"
+            },
+            {
+                "maqh": 534,
+                "tenqh": "Huyện Phú Tân",
+                "short_name": "/ca-mau/huyen-phu-tan"
+            }
+        ]
+    },
+    {
+        "matinh": 6,
+        "tentinh": "Đắc Lắc",
+        "short_name": "/dac-lac",
+        "quan_huyen": [
+            {
+                "maqh": 621,
+                "tenqh": "Huyện Krông A Na",
+                "short_name": "/dac-lac/huyen-krong-a-na"
+            },
+            {
+                "maqh": 311,
+                "tenqh": "Huyện Krông Bông",
+                "short_name": "/dac-lac/huyen-krong-bong"
+            },
+            {
+                "maqh": 514,
+                "tenqh": "Huyện Krông Buk",
+                "short_name": "/dac-lac/huyen-krong-buk"
+            },
+            {
+                "maqh": 359,
+                "tenqh": "Thị Xã Buôn Hồ",
+                "short_name": "/dac-lac/thi-xa-buon-ho"
+            },
+            {
+                "maqh": 592,
+                "tenqh": "Huyện Buôn Đôn",
+                "short_name": "/dac-lac/huyen-buon-don"
+            },
+            {
+                "maqh": 158,
+                "tenqh": "Huyện Cư M'gar",
+                "short_name": "/dac-lac/huyen-cu-mgar"
+            },
+            {
+                "maqh": 510,
+                "tenqh": "Huyện Cư Kuin",
+                "short_name": "/dac-lac/huyen-cu-kuin"
+            },
+            {
+                "maqh": 761,
+                "tenqh": "Huyện Cư Jút (hêt H.lực)",
+                "short_name": "/dac-lac/huyen-cu-jut-het-h-luc"
+            },
+            {
+                "maqh": 551,
+                "tenqh": "Tỉnh Đắk Lắk",
+                "short_name": "/dac-lac/tinh-dak-lak"
+            },
+            {
+                "maqh": 750,
+                "tenqh": "Huyện Đắk Mil (hêt H.lực)",
+                "short_name": "/dac-lac/huyen-dak-mil-het-h-luc"
+            },
+            {
+                "maqh": 758,
+                "tenqh": "Huyện Đắk Nông (hêt H.lực)",
+                "short_name": "/dac-lac/huyen-dak-nong-het-h-luc"
+            },
+            {
+                "maqh": 759,
+                "tenqh": "Huyện Đắk R'Lấp (hêt H.lực)",
+                "short_name": "/dac-lac/huyen-dak-rlap-het-h-luc"
+            },
+            {
+                "maqh": 141,
+                "tenqh": "Huyện Ea H'leo",
+                "short_name": "/dac-lac/huyen-ea-hleo"
+            },
+            {
+                "maqh": 159,
+                "tenqh": "Huyện Ea Kar",
+                "short_name": "/dac-lac/huyen-ea-kar"
+            },
+            {
+                "maqh": 408,
+                "tenqh": "Huyện Ea Súp",
+                "short_name": "/dac-lac/huyen-ea-sup"
+            },
+            {
+                "maqh": 760,
+                "tenqh": "Huyện Krông Nô (hêt H.lực)",
+                "short_name": "/dac-lac/huyen-krong-no-het-h-luc"
+            },
+            {
+                "maqh": 245,
+                "tenqh": "Huyện Krông Pắk",
+                "short_name": "/dac-lac/huyen-krong-pak"
+            },
+            {
+                "maqh": 553,
+                "tenqh": "Huyện Krông Năng",
+                "short_name": "/dac-lac/huyen-krong-nang"
+            },
+            {
+                "maqh": 567,
+                "tenqh": "Huyện M'ĐrắK",
+                "short_name": "/dac-lac/huyen-mdrak"
+            },
+            {
+                "maqh": 691,
+                "tenqh": "Huyện Lắk",
+                "short_name": "/dac-lac/huyen-lak"
+            },
+            {
+                "maqh": 19,
+                "tenqh": "Thành PhốBuôn Ma Thuột",
+                "short_name": "/dac-lac/thanh-phobuon-ma-thuot"
+            },
+            {
+                "maqh": 778,
+                "tenqh": "Tp.buôn Ma Thuột",
+                "short_name": "/dac-lac/tp-buon-ma-thuot"
+            }
+        ]
+    },
+    {
+        "matinh": 7,
+        "tentinh": "Nam Định",
+        "short_name": "/nam-dinh",
+        "quan_huyen": [
+            {
+                "maqh": 879,
+                "tenqh": "Lô C6 - 5 Khu Công Nghiệp Hòa Xá",
+                "short_name": "/nam-dinh/lo-c6-5-khu-cong-nghiep-hoa-xa"
+            },
+            {
+                "maqh": 355,
+                "tenqh": "Huyện Vụ Bản",
+                "short_name": "/nam-dinh/huyen-vu-ban"
+            },
+            {
+                "maqh": 20,
+                "tenqh": "Thành Phố Nam Định",
+                "short_name": "/nam-dinh/thanh-pho-nam-dinh"
+            },
+            {
+                "maqh": 573,
+                "tenqh": "Tỉnh Nam Định",
+                "short_name": "/nam-dinh/tinh-nam-dinh"
+            },
+            {
+                "maqh": 523,
+                "tenqh": "Huyện Giao Thuỷ",
+                "short_name": "/nam-dinh/huyen-giao-thuy"
+            },
+            {
+                "maqh": 465,
+                "tenqh": "Huyện Hải Hậu",
+                "short_name": "/nam-dinh/huyen-hai-hau"
+            },
+            {
+                "maqh": 81,
+                "tenqh": "Huyện Nghĩa Hưng",
+                "short_name": "/nam-dinh/huyen-nghia-hung"
+            },
+            {
+                "maqh": 122,
+                "tenqh": "Huyện Nam Trực",
+                "short_name": "/nam-dinh/huyen-nam-truc"
+            },
+            {
+                "maqh": 233,
+                "tenqh": "Huyện Ý Yên",
+                "short_name": "/nam-dinh/huyen-y-yen"
+            },
+            {
+                "maqh": 304,
+                "tenqh": "Huyện Xuân Trường",
+                "short_name": "/nam-dinh/huyen-xuan-truong"
+            },
+            {
+                "maqh": 352,
+                "tenqh": "Huyện Trực Ninh",
+                "short_name": "/nam-dinh/huyen-truc-ninh"
+            },
+            {
+                "maqh": 353,
+                "tenqh": "Huyện Mỹ Lộc",
+                "short_name": "/nam-dinh/huyen-my-loc"
+            }
+        ]
+    },
+    {
+        "matinh": 8,
+        "tentinh": "Quảng Ninh",
+        "short_name": "/quang-ninh",
+        "quan_huyen": [
+            {
+                "maqh": 902,
+                "tenqh": "Tổ 14",
+                "short_name": "/quang-ninh/to-14"
+            },
+            {
+                "maqh": 637,
+                "tenqh": "Huyện Ba Chẽ",
+                "short_name": "/quang-ninh/huyen-ba-che"
+            },
+            {
+                "maqh": 140,
+                "tenqh": "Thành Phố Uông Bí",
+                "short_name": "/quang-ninh/thanh-pho-uong-bi"
+            },
+            {
+                "maqh": 144,
+                "tenqh": "Huyện Bình Liêu",
+                "short_name": "/quang-ninh/huyen-binh-lieu"
+            },
+            {
+                "maqh": 360,
+                "tenqh": "Huyện Hoành Bồ",
+                "short_name": "/quang-ninh/huyen-hoanh-bo"
+            },
+            {
+                "maqh": 224,
+                "tenqh": "Thành Phố Móng Cái",
+                "short_name": "/quang-ninh/thanh-pho-mong-cai"
+            },
+            {
+                "maqh": 157,
+                "tenqh": "Thành Phố Cẩm Phả",
+                "short_name": "/quang-ninh/thanh-pho-cam-pha"
+            },
+            {
+                "maqh": 492,
+                "tenqh": "Huyện Cô Tô",
+                "short_name": "/quang-ninh/huyen-co-to"
+            },
+            {
+                "maqh": 638,
+                "tenqh": "Huyện Đầm Hà",
+                "short_name": "/quang-ninh/huyen-dam-ha"
+            },
+            {
+                "maqh": 430,
+                "tenqh": "Huyện Vân Đồn",
+                "short_name": "/quang-ninh/huyen-van-don"
+            },
+            {
+                "maqh": 244,
+                "tenqh": "Thị Xã Đông Triều",
+                "short_name": "/quang-ninh/thi-xa-dong-trieu"
+            },
+            {
+                "maqh": 21,
+                "tenqh": "Thành Phố Hạ Long",
+                "short_name": "/quang-ninh/thanh-pho-ha-long"
+            },
+            {
+                "maqh": 371,
+                "tenqh": "Huyện Hải Hà",
+                "short_name": "/quang-ninh/huyen-hai-ha"
+            },
+            {
+                "maqh": 544,
+                "tenqh": "Huyện Tiên Yên",
+                "short_name": "/quang-ninh/huyen-tien-yen"
+            },
+            {
+                "maqh": 722,
+                "tenqh": "Tỉnh Quảng Ninh",
+                "short_name": "/quang-ninh/tinh-quang-ninh"
+            },
+            {
+                "maqh": 627,
+                "tenqh": "Thị Xã  Quảng Yên",
+                "short_name": "/quang-ninh/thi-xa-quang-yen"
+            }
+        ]
+    },
+    {
+        "matinh": 9,
+        "tentinh": "Đắk Nông",
+        "short_name": "/dak-nong",
+        "quan_huyen": [
+            {
+                "maqh": 228,
+                "tenqh": "Huyện Cư Jút",
+                "short_name": "/dak-nong/huyen-cu-jut"
+            },
+            {
+                "maqh": 22,
+                "tenqh": "Huyện Đắk R'Lấp",
+                "short_name": "/dak-nong/huyen-dak-rlap"
+            },
+            {
+                "maqh": 199,
+                "tenqh": "Huyện Đắk Song",
+                "short_name": "/dak-nong/huyen-dak-song"
+            },
+            {
+                "maqh": 298,
+                "tenqh": "Huyện Đắk Mil",
+                "short_name": "/dak-nong/huyen-dak-mil"
+            },
+            {
+                "maqh": 368,
+                "tenqh": "Huyện Đắk Glong",
+                "short_name": "/dak-nong/huyen-dak-glong"
+            },
+            {
+                "maqh": 692,
+                "tenqh": "Huyện Đắk Nông (hêt H.lực)",
+                "short_name": "/dak-nong/huyen-dak-nong-het-h-luc"
+            },
+            {
+                "maqh": 749,
+                "tenqh": "Tỉnh Đắk Nông",
+                "short_name": "/dak-nong/tinh-dak-nong"
+            },
+            {
+                "maqh": 265,
+                "tenqh": "Huyện Tuy Đức",
+                "short_name": "/dak-nong/huyen-tuy-duc"
+            },
+            {
+                "maqh": 23,
+                "tenqh": "Thị Xã Gia Nghĩa",
+                "short_name": "/dak-nong/thi-xa-gia-nghia"
+            },
+            {
+                "maqh": 875,
+                "tenqh": "Thành Phố Gia Nghĩa",
+                "short_name": "/dak-nong/thanh-pho-gia-nghia"
+            },
+            {
+                "maqh": 299,
+                "tenqh": "Huyện Krông Nô",
+                "short_name": "/dak-nong/huyen-krong-no"
+            }
+        ]
+    },
+    {
+        "matinh": 10,
+        "tentinh": "Đà Nẵng",
+        "short_name": "/da-nang",
+        "quan_huyen": [
+            {
+                "maqh": 259,
+                "tenqh": "Quận Cẩm Lệ",
+                "short_name": "/da-nang/quan-cam-le"
+            },
+            {
+                "maqh": 34,
+                "tenqh": "Quận Hải Châu",
+                "short_name": "/da-nang/quan-hai-chau"
+            },
+            {
+                "maqh": 872,
+                "tenqh": "Thôn Quang Châu",
+                "short_name": "/da-nang/thon-quang-chau"
+            },
+            {
+                "maqh": 32,
+                "tenqh": "Quận Liên Chiểu",
+                "short_name": "/da-nang/quan-lien-chieu"
+            },
+            {
+                "maqh": 577,
+                "tenqh": "Thành Phố Đà Nẵng",
+                "short_name": "/da-nang/thanh-pho-da-nang"
+            },
+            {
+                "maqh": 35,
+                "tenqh": "Quận Ngũ Hành Sơn",
+                "short_name": "/da-nang/quan-ngu-hanh-son"
+            },
+            {
+                "maqh": 287,
+                "tenqh": "Huyện Hoà Vang",
+                "short_name": "/da-nang/huyen-hoa-vang"
+            },
+            {
+                "maqh": 36,
+                "tenqh": "Quận Thanh Khê",
+                "short_name": "/da-nang/quan-thanh-khe"
+            },
+            {
+                "maqh": 893,
+                "tenqh": "Thôn Phò Nam",
+                "short_name": "/da-nang/thon-pho-nam"
+            },
+            {
+                "maqh": 33,
+                "tenqh": "Quận Sơn Trà",
+                "short_name": "/da-nang/quan-son-tra"
+            }
+        ]
+    },
+    {
+        "matinh": 11,
+        "tentinh": "Hải Dương",
+        "short_name": "/hai-duong",
+        "quan_huyen": [
+            {
+                "maqh": 487,
+                "tenqh": "Huyện Bình Giang",
+                "short_name": "/hai-duong/huyen-binh-giang"
+            },
+            {
+                "maqh": 288,
+                "tenqh": "Huyện Cẩm Giàng",
+                "short_name": "/hai-duong/huyen-cam-giang"
+            },
+            {
+                "maqh": 456,
+                "tenqh": "Thị Xã Chí Linh",
+                "short_name": "/hai-duong/thi-xa-chi-linh"
+            },
+            {
+                "maqh": 864,
+                "tenqh": "Thành Phố Chí Linh",
+                "short_name": "/hai-duong/thanh-pho-chi-linh"
+            },
+            {
+                "maqh": 37,
+                "tenqh": "Thành Phố Hải Dương",
+                "short_name": "/hai-duong/thanh-pho-hai-duong"
+            },
+            {
+                "maqh": 574,
+                "tenqh": "Tỉnh Hải Dương",
+                "short_name": "/hai-duong/tinh-hai-duong"
+            },
+            {
+                "maqh": 515,
+                "tenqh": "Huyện Gia Lộc",
+                "short_name": "/hai-duong/huyen-gia-loc"
+            },
+            {
+                "maqh": 496,
+                "tenqh": "Huyện Ninh Giang",
+                "short_name": "/hai-duong/huyen-ninh-giang"
+            },
+            {
+                "maqh": 276,
+                "tenqh": "Huyện Thanh Hà",
+                "short_name": "/hai-duong/huyen-thanh-ha"
+            },
+            {
+                "maqh": 38,
+                "tenqh": "Huyện Kim Thành",
+                "short_name": "/hai-duong/huyen-kim-thanh"
+            },
+            {
+                "maqh": 167,
+                "tenqh": "Huyện Thanh Miện",
+                "short_name": "/hai-duong/huyen-thanh-mien"
+            },
+            {
+                "maqh": 223,
+                "tenqh": "Huyện Nam Sách",
+                "short_name": "/hai-duong/huyen-nam-sach"
+            },
+            {
+                "maqh": 232,
+                "tenqh": "Huyện Kinh Môn",
+                "short_name": "/hai-duong/huyen-kinh-mon"
+            },
+            {
+                "maqh": 639,
+                "tenqh": "Huyện Tứ Kỳ",
+                "short_name": "/hai-duong/huyen-tu-ky"
+            },
+            {
+                "maqh": 870,
+                "tenqh": "Thị Xã Kinh Môn",
+                "short_name": "/hai-duong/thi-xa-kinh-mon"
+            }
+        ]
+    },
+    {
+        "matinh": 12,
+        "tentinh": "Long An",
+        "short_name": "/long-an",
+        "quan_huyen": [
+            {
+                "maqh": 250,
+                "tenqh": "Thành Phố Tân An",
+                "short_name": "/long-an/thanh-pho-tan-an"
+            },
+            {
+                "maqh": 698,
+                "tenqh": "Tỉnh Long An",
+                "short_name": "/long-an/tinh-long-an"
+            },
+            {
+                "maqh": 874,
+                "tenqh": "Ấp Bàu Công",
+                "short_name": "/long-an/ap-bau-cong"
+            },
+            {
+                "maqh": 40,
+                "tenqh": "Huyện Bến Lức",
+                "short_name": "/long-an/huyen-ben-luc"
+            },
+            {
+                "maqh": 171,
+                "tenqh": "Huyện Cần Giuộc",
+                "short_name": "/long-an/huyen-can-giuoc"
+            },
+            {
+                "maqh": 425,
+                "tenqh": "Huyện Cần Đước",
+                "short_name": "/long-an/huyen-can-duoc"
+            },
+            {
+                "maqh": 575,
+                "tenqh": "Huyện Châu Thành",
+                "short_name": "/long-an/huyen-chau-thanh"
+            },
+            {
+                "maqh": 41,
+                "tenqh": "Huyện Đức Hoà",
+                "short_name": "/long-an/huyen-duc-hoa"
+            },
+            {
+                "maqh": 498,
+                "tenqh": "Huyện Đức Huệ",
+                "short_name": "/long-an/huyen-duc-hue"
+            },
+            {
+                "maqh": 377,
+                "tenqh": "Huyện Thạnh Hoá",
+                "short_name": "/long-an/huyen-thanh-hoa"
+            },
+            {
+                "maqh": 576,
+                "tenqh": "Huyện Mộc Hoá",
+                "short_name": "/long-an/huyen-moc-hoa"
+            },
+            {
+                "maqh": 99,
+                "tenqh": "Huyện Tân Hưng",
+                "short_name": "/long-an/huyen-tan-hung"
+            },
+            {
+                "maqh": 490,
+                "tenqh": "Huyện Vĩnh Hưng",
+                "short_name": "/long-an/huyen-vinh-hung"
+            },
+            {
+                "maqh": 83,
+                "tenqh": "Huyện Tân Thạnh",
+                "short_name": "/long-an/huyen-tan-thanh"
+            },
+            {
+                "maqh": 378,
+                "tenqh": "Huyện Thủ Thừa",
+                "short_name": "/long-an/huyen-thu-thua"
+            },
+            {
+                "maqh": 689,
+                "tenqh": "Huyện Tân Trụ",
+                "short_name": "/long-an/huyen-tan-tru"
+            },
+            {
+                "maqh": 84,
+                "tenqh": "Thị Xã Kiến Tường",
+                "short_name": "/long-an/thi-xa-kien-tuong"
+            }
+        ]
+    },
+    {
+        "matinh": 13,
+        "tentinh": "Bến Tre",
+        "short_name": "/ben-tre",
+        "quan_huyen": [
+            {
+                "maqh": 831,
+                "tenqh": "Khu Phố 3",
+                "short_name": "/ben-tre/khu-pho-3"
+            },
+            {
+                "maqh": 125,
+                "tenqh": "Huyện Ba Tri",
+                "short_name": "/ben-tre/huyen-ba-tri"
+            },
+            {
+                "maqh": 264,
+                "tenqh": "Huyện Mỏ Cày Bắc",
+                "short_name": "/ben-tre/huyen-mo-cay-bac"
+            },
+            {
+                "maqh": 42,
+                "tenqh": "Thành Phố Bến Tre",
+                "short_name": "/ben-tre/thanh-pho-ben-tre"
+            },
+            {
+                "maqh": 578,
+                "tenqh": "Tỉnh Bến Tre",
+                "short_name": "/ben-tre/tinh-ben-tre"
+            },
+            {
+                "maqh": 262,
+                "tenqh": "Huyện Bình Đại",
+                "short_name": "/ben-tre/huyen-binh-dai"
+            },
+            {
+                "maqh": 322,
+                "tenqh": "Huyện Mỏ Cày Nam",
+                "short_name": "/ben-tre/huyen-mo-cay-nam"
+            },
+            {
+                "maqh": 118,
+                "tenqh": "Huyện Châu Thành",
+                "short_name": "/ben-tre/huyen-chau-thanh"
+            },
+            {
+                "maqh": 202,
+                "tenqh": "Huyện Chợ Lách",
+                "short_name": "/ben-tre/huyen-cho-lach"
+            },
+            {
+                "maqh": 263,
+                "tenqh": "Huyện Giồng Trôm",
+                "short_name": "/ben-tre/huyen-giong-trom"
+            },
+            {
+                "maqh": 120,
+                "tenqh": "Huyện Thạnh Phú",
+                "short_name": "/ben-tre/huyen-thanh-phu"
+            }
+        ]
+    },
+    {
+        "matinh": 14,
+        "tentinh": "Đồng Tháp",
+        "short_name": "/dong-thap",
+        "quan_huyen": [
+            {
+                "maqh": 629,
+                "tenqh": "Huyện Thanh Bình",
+                "short_name": "/dong-thap/huyen-thanh-binh"
+            },
+            {
+                "maqh": 172,
+                "tenqh": "Thành Phố Cao Lãnh",
+                "short_name": "/dong-thap/thanh-pho-cao-lanh"
+            },
+            {
+                "maqh": 624,
+                "tenqh": "Huyện Cao Lãnh",
+                "short_name": "/dong-thap/huyen-cao-lanh"
+            },
+            {
+                "maqh": 217,
+                "tenqh": "Huyện Châu Thành",
+                "short_name": "/dong-thap/huyen-chau-thanh"
+            },
+            {
+                "maqh": 121,
+                "tenqh": "Thành Phố Sa Đéc",
+                "short_name": "/dong-thap/thanh-pho-sa-dec"
+            },
+            {
+                "maqh": 672,
+                "tenqh": "Tỉnh Đồng Tháp",
+                "short_name": "/dong-thap/tinh-dong-thap"
+            },
+            {
+                "maqh": 44,
+                "tenqh": "Huyện  Hồng Ngự",
+                "short_name": "/dong-thap/huyen-hong-ngu"
+            },
+            {
+                "maqh": 45,
+                "tenqh": "Huyện Tân Hồng",
+                "short_name": "/dong-thap/huyen-tan-hong"
+            },
+            {
+                "maqh": 248,
+                "tenqh": "Thị Xã Hồng Ngự",
+                "short_name": "/dong-thap/thi-xa-hong-ngu"
+            },
+            {
+                "maqh": 911,
+                "tenqh": "Thành Phố Hồng Ngự",
+                "short_name": "/dong-thap/thanh-pho-hong-ngu"
+            },
+            {
+                "maqh": 43,
+                "tenqh": "Huyện Tam Nông",
+                "short_name": "/dong-thap/huyen-tam-nong"
+            },
+            {
+                "maqh": 164,
+                "tenqh": "Huyện Lấp Vò",
+                "short_name": "/dong-thap/huyen-lap-vo"
+            },
+            {
+                "maqh": 206,
+                "tenqh": "Huyện Tháp Mười",
+                "short_name": "/dong-thap/huyen-thap-muoi"
+            },
+            {
+                "maqh": 537,
+                "tenqh": "Huyện Lai Vung",
+                "short_name": "/dong-thap/huyen-lai-vung"
+            }
+        ]
+    },
+    {
+        "matinh": 15,
+        "tentinh": "Vĩnh Long",
+        "short_name": "/vinh-long",
+        "quan_huyen": [
+            {
+                "maqh": 914,
+                "tenqh": "Khóm 2",
+                "short_name": "/vinh-long/khom-2"
+            },
+            {
+                "maqh": 189,
+                "tenqh": "Thị Xã Bình Minh",
+                "short_name": "/vinh-long/thi-xa-binh-minh"
+            },
+            {
+                "maqh": 257,
+                "tenqh": "Huyện Tam Bình",
+                "short_name": "/vinh-long/huyen-tam-binh"
+            },
+            {
+                "maqh": 270,
+                "tenqh": "Huyện Bình Tân",
+                "short_name": "/vinh-long/huyen-binh-tan"
+            },
+            {
+                "maqh": 46,
+                "tenqh": "Huyện Long Hồ",
+                "short_name": "/vinh-long/huyen-long-ho"
+            },
+            {
+                "maqh": 150,
+                "tenqh": "Huyện Mang Thít",
+                "short_name": "/vinh-long/huyen-mang-thit"
+            },
+            {
+                "maqh": 351,
+                "tenqh": "Huyện Vũng Liêm",
+                "short_name": "/vinh-long/huyen-vung-liem"
+            },
+            {
+                "maqh": 405,
+                "tenqh": "Huyện Trà Ôn",
+                "short_name": "/vinh-long/huyen-tra-on"
+            },
+            {
+                "maqh": 280,
+                "tenqh": "Thành Phố  Vĩnh Long",
+                "short_name": "/vinh-long/thanh-pho-vinh-long"
+            },
+            {
+                "maqh": 767,
+                "tenqh": "Tỉnh Vĩnh Long",
+                "short_name": "/vinh-long/tinh-vinh-long"
+            }
+        ]
+    },
+    {
+        "matinh": 16,
+        "tentinh": "Kiên Giang",
+        "short_name": "/kien-giang",
+        "quan_huyen": [
+            {
+                "maqh": 569,
+                "tenqh": "Huyện An Minh",
+                "short_name": "/kien-giang/huyen-an-minh"
+            },
+            {
+                "maqh": 634,
+                "tenqh": "Huyện An Biên",
+                "short_name": "/kien-giang/huyen-an-bien"
+            },
+            {
+                "maqh": 254,
+                "tenqh": "Huyện Châu Thành",
+                "short_name": "/kien-giang/huyen-chau-thanh"
+            },
+            {
+                "maqh": 258,
+                "tenqh": "Huyện Hòn Đất",
+                "short_name": "/kien-giang/huyen-hon-dat"
+            },
+            {
+                "maqh": 101,
+                "tenqh": "Thành Phố Rạch Giá",
+                "short_name": "/kien-giang/thanh-pho-rach-gia"
+            },
+            {
+                "maqh": 527,
+                "tenqh": "Huyện Giang Thành",
+                "short_name": "/kien-giang/huyen-giang-thanh"
+            },
+            {
+                "maqh": 563,
+                "tenqh": "Tỉnh Kiên Giang",
+                "short_name": "/kien-giang/tinh-kien-giang"
+            },
+            {
+                "maqh": 178,
+                "tenqh": "Huyện Giồng Riềng",
+                "short_name": "/kien-giang/huyen-giong-rieng"
+            },
+            {
+                "maqh": 334,
+                "tenqh": "Huyện Gò Quao",
+                "short_name": "/kien-giang/huyen-go-quao"
+            },
+            {
+                "maqh": 438,
+                "tenqh": "Thị Xã Hà Tiên",
+                "short_name": "/kien-giang/thi-xa-ha-tien"
+            },
+            {
+                "maqh": 862,
+                "tenqh": "Thành Phố Hà Tiên",
+                "short_name": "/kien-giang/thanh-pho-ha-tien"
+            },
+            {
+                "maqh": 547,
+                "tenqh": "Huyện Kiên Hải",
+                "short_name": "/kien-giang/huyen-kien-hai"
+            },
+            {
+                "maqh": 261,
+                "tenqh": "Huyện Tân Hiệp",
+                "short_name": "/kien-giang/huyen-tan-hiep"
+            },
+            {
+                "maqh": 47,
+                "tenqh": "Huyện Phú Quốc",
+                "short_name": "/kien-giang/huyen-phu-quoc"
+            },
+            {
+                "maqh": 48,
+                "tenqh": "Huyện Kiên Lương",
+                "short_name": "/kien-giang/huyen-kien-luong"
+            },
+            {
+                "maqh": 455,
+                "tenqh": "Huyện Vĩnh Thuận",
+                "short_name": "/kien-giang/huyen-vinh-thuan"
+            },
+            {
+                "maqh": 650,
+                "tenqh": "Huyện U Minh Thượng",
+                "short_name": "/kien-giang/huyen-u-minh-thuong"
+            },
+            {
+                "maqh": 916,
+                "tenqh": "Thành Phố Phú Quốc",
+                "short_name": "/kien-giang/thanh-pho-phu-quoc"
+            }
+        ]
+    },
+    {
+        "matinh": 17,
+        "tentinh": "Trà Vinh",
+        "short_name": "/tra-vinh",
+        "quan_huyen": [
+            {
+                "maqh": 236,
+                "tenqh": "Huyện Tiểu Cần",
+                "short_name": "/tra-vinh/huyen-tieu-can"
+            },
+            {
+                "maqh": 49,
+                "tenqh": "Huyện Càng Long",
+                "short_name": "/tra-vinh/huyen-cang-long"
+            },
+            {
+                "maqh": 179,
+                "tenqh": "Huyện Cầu Ngang",
+                "short_name": "/tra-vinh/huyen-cau-ngang"
+            },
+            {
+                "maqh": 471,
+                "tenqh": "Huyện Cầu Kè",
+                "short_name": "/tra-vinh/huyen-cau-ke"
+            },
+            {
+                "maqh": 554,
+                "tenqh": "Huyện Châu Thành",
+                "short_name": "/tra-vinh/huyen-chau-thanh"
+            },
+            {
+                "maqh": 745,
+                "tenqh": "Huyện Trà Cú",
+                "short_name": "/tra-vinh/huyen-tra-cu"
+            },
+            {
+                "maqh": 417,
+                "tenqh": "Huyện Duyên Hải",
+                "short_name": "/tra-vinh/huyen-duyen-hai"
+            },
+            {
+                "maqh": 549,
+                "tenqh": "Thị Xã Duyên Hải",
+                "short_name": "/tra-vinh/thi-xa-duyen-hai"
+            },
+            {
+                "maqh": 50,
+                "tenqh": "Thành Phố Trà Vinh",
+                "short_name": "/tra-vinh/thanh-pho-tra-vinh"
+            },
+            {
+                "maqh": 713,
+                "tenqh": "Tỉnh Trà Vinh",
+                "short_name": "/tra-vinh/tinh-tra-vinh"
+            }
+        ]
+    },
+    {
+        "matinh": 18,
+        "tentinh": "Sóc Trăng",
+        "short_name": "/soc-trang",
+        "quan_huyen": [
+            {
+                "maqh": 102,
+                "tenqh": "Huyện Châu Thành",
+                "short_name": "/soc-trang/huyen-chau-thanh"
+            },
+            {
+                "maqh": 598,
+                "tenqh": "Thị Xã Vĩnh Châu",
+                "short_name": "/soc-trang/thi-xa-vinh-chau"
+            },
+            {
+                "maqh": 52,
+                "tenqh": "Huyện Cù Lao Dung",
+                "short_name": "/soc-trang/huyen-cu-lao-dung"
+            },
+            {
+                "maqh": 54,
+                "tenqh": "Huyện Trần Đề",
+                "short_name": "/soc-trang/huyen-tran-de"
+            },
+            {
+                "maqh": 53,
+                "tenqh": "Huyện Long Phú",
+                "short_name": "/soc-trang/huyen-long-phu"
+            },
+            {
+                "maqh": 55,
+                "tenqh": "Huyện Mỹ Tú",
+                "short_name": "/soc-trang/huyen-my-tu"
+            },
+            {
+                "maqh": 103,
+                "tenqh": "Huyện Thạnh Trị",
+                "short_name": "/soc-trang/huyen-thanh-tri"
+            },
+            {
+                "maqh": 196,
+                "tenqh": "Huyện Mỹ Xuyên",
+                "short_name": "/soc-trang/huyen-my-xuyen"
+            },
+            {
+                "maqh": 402,
+                "tenqh": "Huyện Kế Sách",
+                "short_name": "/soc-trang/huyen-ke-sach"
+            },
+            {
+                "maqh": 618,
+                "tenqh": "Thị Xã Ngã Năm",
+                "short_name": "/soc-trang/thi-xa-nga-nam"
+            },
+            {
+                "maqh": 51,
+                "tenqh": "Thành Phố Sóc Trăng",
+                "short_name": "/soc-trang/thanh-pho-soc-trang"
+            },
+            {
+                "maqh": 718,
+                "tenqh": "Tỉnh Sóc Trăng",
+                "short_name": "/soc-trang/tinh-soc-trang"
+            }
+        ]
+    },
+    {
+        "matinh": 19,
+        "tentinh": "Bắc Ninh",
+        "short_name": "/bac-ninh",
+        "quan_huyen": [
+            {
+                "maqh": 56,
+                "tenqh": "Thành Phố Bắc Ninh",
+                "short_name": "/bac-ninh/thanh-pho-bac-ninh"
+            },
+            {
+                "maqh": 766,
+                "tenqh": "Tỉnh Bắc Ninh",
+                "short_name": "/bac-ninh/tinh-bac-ninh"
+            },
+            {
+                "maqh": 386,
+                "tenqh": "Huyện Gia Bình",
+                "short_name": "/bac-ninh/huyen-gia-binh"
+            },
+            {
+                "maqh": 58,
+                "tenqh": "Huyện Tiên Du",
+                "short_name": "/bac-ninh/huyen-tien-du"
+            },
+            {
+                "maqh": 57,
+                "tenqh": "Huyện Quế Võ",
+                "short_name": "/bac-ninh/huyen-que-vo"
+            },
+            {
+                "maqh": 307,
+                "tenqh": "Huyện Lương Tài",
+                "short_name": "/bac-ninh/huyen-luong-tai"
+            },
+            {
+                "maqh": 313,
+                "tenqh": "Huyện Yên Phong",
+                "short_name": "/bac-ninh/huyen-yen-phong"
+            },
+            {
+                "maqh": 393,
+                "tenqh": "Huyện Thuận Thành",
+                "short_name": "/bac-ninh/huyen-thuan-thanh"
+            },
+            {
+                "maqh": 151,
+                "tenqh": "Thị Xã Từ Sơn",
+                "short_name": "/bac-ninh/thi-xa-tu-son"
+            }
+        ]
+    },
+    {
+        "matinh": 20,
+        "tentinh": "Thanh Hoá",
+        "short_name": "/thanh-hoa",
+        "quan_huyen": [
+            {
+                "maqh": 868,
+                "tenqh": "Số 312 Nguyễn Trãi",
+                "short_name": "/thanh-hoa/so-312-nguyen-trai"
+            },
+            {
+                "maqh": 728,
+                "tenqh": "Huyện Bá Thước",
+                "short_name": "/thanh-hoa/huyen-ba-thuoc"
+            },
+            {
+                "maqh": 61,
+                "tenqh": "Thị Xã Bỉm Sơn",
+                "short_name": "/thanh-hoa/thi-xa-bim-son"
+            },
+            {
+                "maqh": 231,
+                "tenqh": "Huyện Cẩm Thuỷ",
+                "short_name": "/thanh-hoa/huyen-cam-thuy"
+            },
+            {
+                "maqh": 648,
+                "tenqh": "Huyện Lang Chánh",
+                "short_name": "/thanh-hoa/huyen-lang-chanh"
+            },
+            {
+                "maqh": 540,
+                "tenqh": "Huyện Nông Cống",
+                "short_name": "/thanh-hoa/huyen-nong-cong"
+            },
+            {
+                "maqh": 635,
+                "tenqh": "Huyện Yên Định",
+                "short_name": "/thanh-hoa/huyen-yen-dinh"
+            },
+            {
+                "maqh": 560,
+                "tenqh": "Huyện Đông Sơn",
+                "short_name": "/thanh-hoa/huyen-dong-son"
+            },
+            {
+                "maqh": 62,
+                "tenqh": "Huyện Tĩnh Gia",
+                "short_name": "/thanh-hoa/huyen-tinh-gia"
+            },
+            {
+                "maqh": 59,
+                "tenqh": "Huyện Hà Trung",
+                "short_name": "/thanh-hoa/huyen-ha-trung"
+            },
+            {
+                "maqh": 545,
+                "tenqh": "Huyện Hậu Lộc",
+                "short_name": "/thanh-hoa/huyen-hau-loc"
+            },
+            {
+                "maqh": 63,
+                "tenqh": "Thành Phố Thanh Hoá",
+                "short_name": "/thanh-hoa/thanh-pho-thanh-hoa"
+            },
+            {
+                "maqh": 290,
+                "tenqh": "Huyện Hoằng Hoá",
+                "short_name": "/thanh-hoa/huyen-hoang-hoa"
+            },
+            {
+                "maqh": 335,
+                "tenqh": "Huyện Thiệu Hoá",
+                "short_name": "/thanh-hoa/huyen-thieu-hoa"
+            },
+            {
+                "maqh": 667,
+                "tenqh": "Tỉnh Thanh Hoá",
+                "short_name": "/thanh-hoa/tinh-thanh-hoa"
+            },
+            {
+                "maqh": 670,
+                "tenqh": "Huyện Quan Hoá",
+                "short_name": "/thanh-hoa/huyen-quan-hoa"
+            },
+            {
+                "maqh": 60,
+                "tenqh": "Huyện Quảng Xương",
+                "short_name": "/thanh-hoa/huyen-quang-xuong"
+            },
+            {
+                "maqh": 221,
+                "tenqh": "Huyện Nga Sơn",
+                "short_name": "/thanh-hoa/huyen-nga-son"
+            },
+            {
+                "maqh": 339,
+                "tenqh": "Huyện Triệu Sơn",
+                "short_name": "/thanh-hoa/huyen-trieu-son"
+            },
+            {
+                "maqh": 376,
+                "tenqh": "Huyện Thạch Thành",
+                "short_name": "/thanh-hoa/huyen-thach-thanh"
+            },
+            {
+                "maqh": 421,
+                "tenqh": "Huyện Như Xuân",
+                "short_name": "/thanh-hoa/huyen-nhu-xuan"
+            },
+            {
+                "maqh": 422,
+                "tenqh": "Huyện Thọ Xuân",
+                "short_name": "/thanh-hoa/huyen-tho-xuan"
+            },
+            {
+                "maqh": 538,
+                "tenqh": "Huyện Quan Sơn",
+                "short_name": "/thanh-hoa/huyen-quan-son"
+            },
+            {
+                "maqh": 539,
+                "tenqh": "Huyện Thường Xuân",
+                "short_name": "/thanh-hoa/huyen-thuong-xuan"
+            },
+            {
+                "maqh": 541,
+                "tenqh": "Huyện Mường Lát",
+                "short_name": "/thanh-hoa/huyen-muong-lat"
+            },
+            {
+                "maqh": 546,
+                "tenqh": "Huyện Vĩnh Lộc",
+                "short_name": "/thanh-hoa/huyen-vinh-loc"
+            },
+            {
+                "maqh": 631,
+                "tenqh": "Huyện Ngọc Lặc",
+                "short_name": "/thanh-hoa/huyen-ngoc-lac"
+            },
+            {
+                "maqh": 664,
+                "tenqh": "Huyện Như Thanh",
+                "short_name": "/thanh-hoa/huyen-nhu-thanh"
+            },
+            {
+                "maqh": 899,
+                "tenqh": "Thị Xã Nghi Sơn",
+                "short_name": "/thanh-hoa/thi-xa-nghi-son"
+            },
+            {
+                "maqh": 832,
+                "tenqh": "Thành Phố Sầm Sơn",
+                "short_name": "/thanh-hoa/thanh-pho-sam-son"
+            },
+            {
+                "maqh": 333,
+                "tenqh": "Thị Xã Sầm Sơn",
+                "short_name": "/thanh-hoa/thi-xa-sam-son"
+            }
+        ]
+    },
+    {
+        "matinh": 21,
+        "tentinh": "Vũng Tàu",
+        "short_name": "/vung-tau",
+        "quan_huyen": [
+            {
+                "maqh": 64,
+                "tenqh": "Bà Rịa",
+                "short_name": "/vung-tau/ba-ria"
+            },
+            {
+                "maqh": 883,
+                "tenqh": "Tỉnh Bà Rịa",
+                "short_name": "/vung-tau/tinh-ba-ria"
+            }
+        ]
+    },
+    {
+        "matinh": 22,
+        "tentinh": "Đồng Nai",
+        "short_name": "/dong-nai",
+        "quan_huyen": [
+            {
+                "maqh": 105,
+                "tenqh": "Thành Phố Biên Hoà",
+                "short_name": "/dong-nai/thanh-pho-bien-hoa"
+            },
+            {
+                "maqh": 253,
+                "tenqh": "Huyện Trảng Bom",
+                "short_name": "/dong-nai/huyen-trang-bom"
+            },
+            {
+                "maqh": 461,
+                "tenqh": "Huyện Cẩm Mỹ",
+                "short_name": "/dong-nai/huyen-cam-my"
+            },
+            {
+                "maqh": 239,
+                "tenqh": "Huyện Vĩnh Cửu",
+                "short_name": "/dong-nai/huyen-vinh-cuu"
+            },
+            {
+                "maqh": 367,
+                "tenqh": "Huyện Định Quán",
+                "short_name": "/dong-nai/huyen-dinh-quan"
+            },
+            {
+                "maqh": 679,
+                "tenqh": "Tỉnh Đồng Nai",
+                "short_name": "/dong-nai/tinh-dong-nai"
+            },
+            {
+                "maqh": 65,
+                "tenqh": "Huyện Long Thành",
+                "short_name": "/dong-nai/huyen-long-thanh"
+            },
+            {
+                "maqh": 238,
+                "tenqh": "Huyện Nhơn Trạch",
+                "short_name": "/dong-nai/huyen-nhon-trach"
+            },
+            {
+                "maqh": 332,
+                "tenqh": "Huyện Tân Phú",
+                "short_name": "/dong-nai/huyen-tan-phu"
+            },
+            {
+                "maqh": 460,
+                "tenqh": "Huyện Xuân Lộc",
+                "short_name": "/dong-nai/huyen-xuan-loc"
+            },
+            {
+                "maqh": 477,
+                "tenqh": "Huyện Thống Nhất",
+                "short_name": "/dong-nai/huyen-thong-nhat"
+            },
+            {
+                "maqh": 106,
+                "tenqh": "Thị Xã Long Khánh",
+                "short_name": "/dong-nai/thi-xa-long-khanh"
+            },
+            {
+                "maqh": 866,
+                "tenqh": "Thành Phố Long Khánh",
+                "short_name": "/dong-nai/thanh-pho-long-khanh"
+            }
+        ]
+    },
+    {
+        "matinh": 23,
+        "tentinh": "Bình Dương",
+        "short_name": "/binh-duong",
+        "quan_huyen": [
+            {
+                "maqh": 888,
+                "tenqh": "Đường Số 10",
+                "short_name": "/binh-duong/duong-so-10"
+            },
+            {
+                "maqh": 67,
+                "tenqh": "TX Thuận An",
+                "short_name": "/binh-duong/tx-thuan-an"
+            },
+            {
+                "maqh": 68,
+                "tenqh": "TX Dĩ An",
+                "short_name": "/binh-duong/tx-di-an"
+            },
+            {
+                "maqh": 792,
+                "tenqh": "Thị Xã Thuận An",
+                "short_name": "/binh-duong/thi-xa-thuan-an"
+            },
+            {
+                "maqh": 814,
+                "tenqh": "Thị Xã Dĩ An",
+                "short_name": "/binh-duong/thi-xa-di-an"
+            },
+            {
+                "maqh": 880,
+                "tenqh": "Thành Phố Dĩ An",
+                "short_name": "/binh-duong/thanh-pho-di-an"
+            },
+            {
+                "maqh": 881,
+                "tenqh": "Thành Phố Thuận An",
+                "short_name": "/binh-duong/thanh-pho-thuan-an"
+            },
+            {
+                "maqh": 584,
+                "tenqh": "Huyện Bắc Tân Uyên",
+                "short_name": "/binh-duong/huyen-bac-tan-uyen"
+            },
+            {
+                "maqh": 190,
+                "tenqh": "Huyện Bàu Bàng",
+                "short_name": "/binh-duong/huyen-bau-bang"
+            },
+            {
+                "maqh": 66,
+                "tenqh": "Thị Xã Bến Cát",
+                "short_name": "/binh-duong/thi-xa-ben-cat"
+            },
+            {
+                "maqh": 690,
+                "tenqh": "Tỉnh Bình Dương",
+                "short_name": "/binh-duong/tinh-binh-duong"
+            },
+            {
+                "maqh": 69,
+                "tenqh": "Thành Phố Thủ Dầu Một",
+                "short_name": "/binh-duong/thanh-pho-thu-dau-mot"
+            },
+            {
+                "maqh": 365,
+                "tenqh": "Huyện Dầu Tiếng",
+                "short_name": "/binh-duong/huyen-dau-tieng"
+            },
+            {
+                "maqh": 268,
+                "tenqh": "Huyện Phú Giáo",
+                "short_name": "/binh-duong/huyen-phu-giao"
+            },
+            {
+                "maqh": 88,
+                "tenqh": "Thị Xã  Tân Uyên",
+                "short_name": "/binh-duong/thi-xa-tan-uyen"
+            }
+        ]
+    },
+    {
+        "matinh": 24,
+        "tentinh": "Thái Nguyên",
+        "short_name": "/thai-nguyen",
+        "quan_huyen": [
+            {
+                "maqh": 70,
+                "tenqh": "Huyện Phú Bình",
+                "short_name": "/thai-nguyen/huyen-phu-binh"
+            },
+            {
+                "maqh": 503,
+                "tenqh": "Thành Phố Sông Công",
+                "short_name": "/thai-nguyen/thanh-pho-song-cong"
+            },
+            {
+                "maqh": 388,
+                "tenqh": "Huyện Đại Từ",
+                "short_name": "/thai-nguyen/huyen-dai-tu"
+            },
+            {
+                "maqh": 581,
+                "tenqh": "Huyện Định Hoá",
+                "short_name": "/thai-nguyen/huyen-dinh-hoa"
+            },
+            {
+                "maqh": 585,
+                "tenqh": "Huyện Đồng Hỷ",
+                "short_name": "/thai-nguyen/huyen-dong-hy"
+            },
+            {
+                "maqh": 466,
+                "tenqh": "Huyện Phú Lương",
+                "short_name": "/thai-nguyen/huyen-phu-luong"
+            },
+            {
+                "maqh": 633,
+                "tenqh": "Huyện Võ Nhai",
+                "short_name": "/thai-nguyen/huyen-vo-nhai"
+            },
+            {
+                "maqh": 94,
+                "tenqh": "Thành Phố Thái Nguyên",
+                "short_name": "/thai-nguyen/thanh-pho-thai-nguyen"
+            },
+            {
+                "maqh": 662,
+                "tenqh": "Tỉnh Thái Nguyên",
+                "short_name": "/thai-nguyen/tinh-thai-nguyen"
+            },
+            {
+                "maqh": 323,
+                "tenqh": "Thị Xã Phổ Yên",
+                "short_name": "/thai-nguyen/thi-xa-pho-yen"
+            }
+        ]
+    },
+    {
+        "matinh": 25,
+        "tentinh": "Thái Bình",
+        "short_name": "/thai-binh",
+        "quan_huyen": [
+            {
+                "maqh": 319,
+                "tenqh": "Thành Phố Thái Bình",
+                "short_name": "/thai-binh/thanh-pho-thai-binh"
+            },
+            {
+                "maqh": 771,
+                "tenqh": "Tỉnh Thái Bình",
+                "short_name": "/thai-binh/tinh-thai-binh"
+            },
+            {
+                "maqh": 82,
+                "tenqh": "Huyện Đông Hưng",
+                "short_name": "/thai-binh/huyen-dong-hung"
+            },
+            {
+                "maqh": 548,
+                "tenqh": "Huyện Hưng Hà",
+                "short_name": "/thai-binh/huyen-hung-ha"
+            },
+            {
+                "maqh": 123,
+                "tenqh": "Huyện Tiền Hải",
+                "short_name": "/thai-binh/huyen-tien-hai"
+            },
+            {
+                "maqh": 116,
+                "tenqh": "Huyện Kiến Xương",
+                "short_name": "/thai-binh/huyen-kien-xuong"
+            },
+            {
+                "maqh": 384,
+                "tenqh": "Huyện Thái Thụy",
+                "short_name": "/thai-binh/huyen-thai-thuy"
+            },
+            {
+                "maqh": 445,
+                "tenqh": "Huyện Quỳnh Phụ",
+                "short_name": "/thai-binh/huyen-quynh-phu"
+            },
+            {
+                "maqh": 507,
+                "tenqh": "Huyện Vũ Thư",
+                "short_name": "/thai-binh/huyen-vu-thu"
+            }
+        ]
+    },
+    {
+        "matinh": 26,
+        "tentinh": "Cần Thơ",
+        "short_name": "/can-tho",
+        "quan_huyen": [
+            {
+                "maqh": 772,
+                "tenqh": "Huyện Châu Thành A (hêt H.lực)",
+                "short_name": "/can-tho/huyen-chau-thanh-a-het-h-luc"
+            },
+            {
+                "maqh": 126,
+                "tenqh": "Quận Bình Thuỷ",
+                "short_name": "/can-tho/quan-binh-thuy"
+            },
+            {
+                "maqh": 85,
+                "tenqh": "Quận Cái Răng",
+                "short_name": "/can-tho/quan-cai-rang"
+            },
+            {
+                "maqh": 562,
+                "tenqh": "Thành Phố Cần Thơ (hêt H.lực)",
+                "short_name": "/can-tho/thanh-pho-can-tho-het-h-luc"
+            },
+            {
+                "maqh": 712,
+                "tenqh": "Thành Phố Cần Thơ",
+                "short_name": "/can-tho/thanh-pho-can-tho"
+            },
+            {
+                "maqh": 440,
+                "tenqh": "Huyện Châu Thành (hêt H.lực)",
+                "short_name": "/can-tho/huyen-chau-thanh-het-h-luc"
+            },
+            {
+                "maqh": 255,
+                "tenqh": "Huyện Cờ Đỏ",
+                "short_name": "/can-tho/huyen-co-do"
+            },
+            {
+                "maqh": 350,
+                "tenqh": "Huyện Phong Điền",
+                "short_name": "/can-tho/huyen-phong-dien"
+            },
+            {
+                "maqh": 681,
+                "tenqh": "Huyện Long Mỹ (hêt H.lực)",
+                "short_name": "/can-tho/huyen-long-my-het-h-luc"
+            },
+            {
+                "maqh": 769,
+                "tenqh": "Huyện Phụng Hiệp (hêt H.lực)",
+                "short_name": "/can-tho/huyen-phung-hiep-het-h-luc"
+            },
+            {
+                "maqh": 213,
+                "tenqh": "Huyện Thới Lai",
+                "short_name": "/can-tho/huyen-thoi-lai"
+            },
+            {
+                "maqh": 230,
+                "tenqh": "Huyện Vĩnh Thạnh",
+                "short_name": "/can-tho/huyen-vinh-thanh"
+            },
+            {
+                "maqh": 119,
+                "tenqh": "Quận Ninh Kiều",
+                "short_name": "/can-tho/quan-ninh-kieu"
+            },
+            {
+                "maqh": 252,
+                "tenqh": "Quận Ô Môn",
+                "short_name": "/can-tho/quan-o-mon"
+            },
+            {
+                "maqh": 473,
+                "tenqh": "Quận Thốt Nốt",
+                "short_name": "/can-tho/quan-thot-not"
+            }
+        ]
+    },
+    {
+        "matinh": 27,
+        "tentinh": "Nghệ An",
+        "short_name": "/nghe-an",
+        "quan_huyen": [
+            {
+                "maqh": 669,
+                "tenqh": "Tỉnh Nghệ An",
+                "short_name": "/nghe-an/tinh-nghe-an"
+            },
+            {
+                "maqh": 587,
+                "tenqh": "Huyện Anh Sơn",
+                "short_name": "/nghe-an/huyen-anh-son"
+            },
+            {
+                "maqh": 390,
+                "tenqh": "Huyện Diễn Châu",
+                "short_name": "/nghe-an/huyen-dien-chau"
+            },
+            {
+                "maqh": 588,
+                "tenqh": "Huyện Quỳ Châu",
+                "short_name": "/nghe-an/huyen-quy-chau"
+            },
+            {
+                "maqh": 391,
+                "tenqh": "Huyện Thanh Chương",
+                "short_name": "/nghe-an/huyen-thanh-chuong"
+            },
+            {
+                "maqh": 626,
+                "tenqh": "Huyện Con Cuông",
+                "short_name": "/nghe-an/huyen-con-cuong"
+            },
+            {
+                "maqh": 216,
+                "tenqh": "Thị Xã Cửa Lò",
+                "short_name": "/nghe-an/thi-xa-cua-lo"
+            },
+            {
+                "maqh": 222,
+                "tenqh": "Huyện Nghĩa Đàn",
+                "short_name": "/nghe-an/huyen-nghia-dan"
+            },
+            {
+                "maqh": 494,
+                "tenqh": "Huyện Nam Đàn",
+                "short_name": "/nghe-an/huyen-nam-dan"
+            },
+            {
+                "maqh": 327,
+                "tenqh": "Huyện Đô Lương",
+                "short_name": "/nghe-an/huyen-do-luong"
+            },
+            {
+                "maqh": 655,
+                "tenqh": "Huyện Tương Dương",
+                "short_name": "/nghe-an/huyen-tuong-duong"
+            },
+            {
+                "maqh": 328,
+                "tenqh": "Thị Xã Thái Hoà",
+                "short_name": "/nghe-an/thi-xa-thai-hoa"
+            },
+            {
+                "maqh": 392,
+                "tenqh": "Thị Xã Hoàng Mai",
+                "short_name": "/nghe-an/thi-xa-hoang-mai"
+            },
+            {
+                "maqh": 297,
+                "tenqh": "Huyện Quỳ Hợp",
+                "short_name": "/nghe-an/huyen-quy-hop"
+            },
+            {
+                "maqh": 404,
+                "tenqh": "Huyện Hưng Nguyên",
+                "short_name": "/nghe-an/huyen-hung-nguyen"
+            },
+            {
+                "maqh": 130,
+                "tenqh": "Huyện Quỳnh Lưu",
+                "short_name": "/nghe-an/huyen-quynh-luu"
+            },
+            {
+                "maqh": 183,
+                "tenqh": "Huyện Tân Kỳ",
+                "short_name": "/nghe-an/huyen-tan-ky"
+            },
+            {
+                "maqh": 410,
+                "tenqh": "Huyện Kỳ Sơn",
+                "short_name": "/nghe-an/huyen-ky-son"
+            },
+            {
+                "maqh": 415,
+                "tenqh": "Huyện Quế Phong",
+                "short_name": "/nghe-an/huyen-que-phong"
+            },
+            {
+                "maqh": 483,
+                "tenqh": "Huyện Yên Thành",
+                "short_name": "/nghe-an/huyen-yen-thanh"
+            },
+            {
+                "maqh": 524,
+                "tenqh": "Huyện Nghi Lộc",
+                "short_name": "/nghe-an/huyen-nghi-loc"
+            },
+            {
+                "maqh": 86,
+                "tenqh": "Thành Phố Vinh",
+                "short_name": "/nghe-an/thanh-pho-vinh"
+            }
+        ]
+    },
+    {
+        "matinh": 28,
+        "tentinh": "Huế",
+        "short_name": "/hue",
+        "quan_huyen": [
+            {
+                "maqh": 87,
+                "tenqh": "Thừa Thiên",
+                "short_name": "/hue/thua-thien"
+            }
+        ]
+    },
+    {
+        "matinh": 29,
+        "tentinh": "Bình Phước",
+        "short_name": "/binh-phuoc",
+        "quan_huyen": [
+            {
+                "maqh": 907,
+                "tenqh": "Ấp Bàu Ké",
+                "short_name": "/binh-phuoc/ap-bau-ke"
+            },
+            {
+                "maqh": 602,
+                "tenqh": "Thị Xã  Bình Long",
+                "short_name": "/binh-phuoc/thi-xa-binh-long"
+            },
+            {
+                "maqh": 727,
+                "tenqh": "Tỉnh Bình Phước",
+                "short_name": "/binh-phuoc/tinh-binh-phuoc"
+            },
+            {
+                "maqh": 904,
+                "tenqh": "Tx Bình Long",
+                "short_name": "/binh-phuoc/tx-binh-long"
+            },
+            {
+                "maqh": 169,
+                "tenqh": "Huyện Bù Đốp",
+                "short_name": "/binh-phuoc/huyen-bu-dop"
+            },
+            {
+                "maqh": 191,
+                "tenqh": "Huyện Bù Đăng",
+                "short_name": "/binh-phuoc/huyen-bu-dang"
+            },
+            {
+                "maqh": 542,
+                "tenqh": "Huyện Bù Gia Mập",
+                "short_name": "/binh-phuoc/huyen-bu-gia-map"
+            },
+            {
+                "maqh": 89,
+                "tenqh": "Huyện Chơn Thành",
+                "short_name": "/binh-phuoc/huyen-chon-thanh"
+            },
+            {
+                "maqh": 192,
+                "tenqh": "Thị Xã Đồng Xoài",
+                "short_name": "/binh-phuoc/thi-xa-dong-xoai"
+            },
+            {
+                "maqh": 241,
+                "tenqh": "Huyện Đồng Phú",
+                "short_name": "/binh-phuoc/huyen-dong-phu"
+            },
+            {
+                "maqh": 863,
+                "tenqh": "Thành Phố Đồng Xoài",
+                "short_name": "/binh-phuoc/thanh-pho-dong-xoai"
+            },
+            {
+                "maqh": 531,
+                "tenqh": "Huyện Hớn Quản",
+                "short_name": "/binh-phuoc/huyen-hon-quan"
+            },
+            {
+                "maqh": 891,
+                "tenqh": "Hớn Quản",
+                "short_name": "/binh-phuoc/hon-quan"
+            },
+            {
+                "maqh": 314,
+                "tenqh": "Huyện Lộc Ninh",
+                "short_name": "/binh-phuoc/huyen-loc-ninh"
+            },
+            {
+                "maqh": 442,
+                "tenqh": "Huyện Phú Riềng",
+                "short_name": "/binh-phuoc/huyen-phu-rieng"
+            },
+            {
+                "maqh": 286,
+                "tenqh": "Thị Xã  Phước Long",
+                "short_name": "/binh-phuoc/thi-xa-phuoc-long"
+            },
+            {
+                "maqh": 892,
+                "tenqh": "Tx Phước Long",
+                "short_name": "/binh-phuoc/tx-phuoc-long"
+            }
+        ]
+    },
+    {
+        "matinh": 30,
+        "tentinh": "Quảng Nam",
+        "short_name": "/quang-nam",
+        "quan_huyen": [
+            {
+                "maqh": 861,
+                "tenqh": "275 Phan Chu Trinh",
+                "short_name": "/quang-nam/275-phan-chu-trinh"
+            },
+            {
+                "maqh": 860,
+                "tenqh": "466 Phan Chu Trinh",
+                "short_name": "/quang-nam/466-phan-chu-trinh"
+            },
+            {
+                "maqh": 90,
+                "tenqh": "Thành Phố Hội An",
+                "short_name": "/quang-nam/thanh-pho-hoi-an"
+            },
+            {
+                "maqh": 271,
+                "tenqh": "Huyện Bắc Trà My",
+                "short_name": "/quang-nam/huyen-bac-tra-my"
+            },
+            {
+                "maqh": 296,
+                "tenqh": "Thị Xã Điện Bàn",
+                "short_name": "/quang-nam/thi-xa-dien-ban"
+            },
+            {
+                "maqh": 419,
+                "tenqh": "Huyện Thăng Bình",
+                "short_name": "/quang-nam/huyen-thang-binh"
+            },
+            {
+                "maqh": 292,
+                "tenqh": "Huyện Đại Lộc",
+                "short_name": "/quang-nam/huyen-dai-loc"
+            },
+            {
+                "maqh": 418,
+                "tenqh": "Huyện Đông Giang",
+                "short_name": "/quang-nam/huyen-dong-giang"
+            },
+            {
+                "maqh": 591,
+                "tenqh": "Huyện Hiệp Đức",
+                "short_name": "/quang-nam/huyen-hiep-duc"
+            },
+            {
+                "maqh": 431,
+                "tenqh": "Huyện Duy Xuyên",
+                "short_name": "/quang-nam/huyen-duy-xuyen"
+            },
+            {
+                "maqh": 219,
+                "tenqh": "Huyện Tây Giang",
+                "short_name": "/quang-nam/huyen-tay-giang"
+            },
+            {
+                "maqh": 632,
+                "tenqh": "Huyện Nam Giang",
+                "short_name": "/quang-nam/huyen-nam-giang"
+            },
+            {
+                "maqh": 269,
+                "tenqh": "Huyện Nam Trà My",
+                "short_name": "/quang-nam/huyen-nam-tra-my"
+            },
+            {
+                "maqh": 303,
+                "tenqh": "Huyện Nông Sơn",
+                "short_name": "/quang-nam/huyen-nong-son"
+            },
+            {
+                "maqh": 305,
+                "tenqh": "Huyện Núi Thành",
+                "short_name": "/quang-nam/huyen-nui-thanh"
+            },
+            {
+                "maqh": 399,
+                "tenqh": "Huyện Phước Sơn",
+                "short_name": "/quang-nam/huyen-phuoc-son"
+            },
+            {
+                "maqh": 423,
+                "tenqh": "Huyện Phú Ninh",
+                "short_name": "/quang-nam/huyen-phu-ninh"
+            },
+            {
+                "maqh": 432,
+                "tenqh": "Huyện Quế Sơn",
+                "short_name": "/quang-nam/huyen-que-son"
+            },
+            {
+                "maqh": 651,
+                "tenqh": "Huyện Tiên Phước",
+                "short_name": "/quang-nam/huyen-tien-phuoc"
+            },
+            {
+                "maqh": 91,
+                "tenqh": "Thành Phố Tam Kỳ",
+                "short_name": "/quang-nam/thanh-pho-tam-ky"
+            },
+            {
+                "maqh": 725,
+                "tenqh": "Tỉnh Quảng Nam",
+                "short_name": "/quang-nam/tinh-quang-nam"
+            }
+        ]
+    },
+    {
+        "matinh": 31,
+        "tentinh": "Quảng Ngãi",
+        "short_name": "/quang-ngai",
+        "quan_huyen": [
+            {
+                "maqh": 379,
+                "tenqh": "Huyện Ba Tơ",
+                "short_name": "/quang-ngai/huyen-ba-to"
+            },
+            {
+                "maqh": 146,
+                "tenqh": "Huyện Bình Sơn",
+                "short_name": "/quang-ngai/huyen-binh-son"
+            },
+            {
+                "maqh": 746,
+                "tenqh": "Huyện Trà Bồng",
+                "short_name": "/quang-ngai/huyen-tra-bong"
+            },
+            {
+                "maqh": 441,
+                "tenqh": "Huyện Đức Phổ",
+                "short_name": "/quang-ngai/huyen-duc-pho"
+            },
+            {
+                "maqh": 710,
+                "tenqh": "Huyện Mộ Đức",
+                "short_name": "/quang-ngai/huyen-mo-duc"
+            },
+            {
+                "maqh": 886,
+                "tenqh": "Thị Xã Đức Phổ",
+                "short_name": "/quang-ngai/thi-xa-duc-pho"
+            },
+            {
+                "maqh": 453,
+                "tenqh": "Huyện Sơn Hà",
+                "short_name": "/quang-ngai/huyen-son-ha"
+            },
+            {
+                "maqh": 338,
+                "tenqh": "Huyện Nghĩa Hành",
+                "short_name": "/quang-ngai/huyen-nghia-hanh"
+            },
+            {
+                "maqh": 364,
+                "tenqh": "Huyện Tư Nghĩa",
+                "short_name": "/quang-ngai/huyen-tu-nghia"
+            },
+            {
+                "maqh": 369,
+                "tenqh": "Huyện Lý Sơn",
+                "short_name": "/quang-ngai/huyen-ly-son"
+            },
+            {
+                "maqh": 436,
+                "tenqh": "Huyện Minh Long",
+                "short_name": "/quang-ngai/huyen-minh-long"
+            },
+            {
+                "maqh": 475,
+                "tenqh": "Huyện Tây Trà",
+                "short_name": "/quang-ngai/huyen-tay-tra"
+            },
+            {
+                "maqh": 603,
+                "tenqh": "Huyện Sơn Tịnh",
+                "short_name": "/quang-ngai/huyen-son-tinh"
+            },
+            {
+                "maqh": 615,
+                "tenqh": "Huyện Sơn Tây",
+                "short_name": "/quang-ngai/huyen-son-tay"
+            },
+            {
+                "maqh": 92,
+                "tenqh": "Thành Phố Quảng Ngãi",
+                "short_name": "/quang-ngai/thanh-pho-quang-ngai"
+            },
+            {
+                "maqh": 723,
+                "tenqh": "Tỉnh Quảng Ngãi",
+                "short_name": "/quang-ngai/tinh-quang-ngai"
+            }
+        ]
+    },
+    {
+        "matinh": 32,
+        "tentinh": "Ninh Thuận",
+        "short_name": "/ninh-thuan",
+        "quan_huyen": [
+            {
+                "maqh": 709,
+                "tenqh": "Huyện Bác Ái",
+                "short_name": "/ninh-thuan/huyen-bac-ai"
+            },
+            {
+                "maqh": 111,
+                "tenqh": "Huyện Thuận Bắc",
+                "short_name": "/ninh-thuan/huyen-thuan-bac"
+            },
+            {
+                "maqh": 93,
+                "tenqh": "Tháp Chàm",
+                "short_name": "/ninh-thuan/thap-cham"
+            },
+            {
+                "maqh": 791,
+                "tenqh": "Tp. Phan Rang-tháp Chàm",
+                "short_name": "/ninh-thuan/tp-phan-rang-thap-cham"
+            },
+            {
+                "maqh": 525,
+                "tenqh": "Huyện Ninh Hải",
+                "short_name": "/ninh-thuan/huyen-ninh-hai"
+            },
+            {
+                "maqh": 112,
+                "tenqh": "Huyện Thuận Nam",
+                "short_name": "/ninh-thuan/huyen-thuan-nam"
+            },
+            {
+                "maqh": 113,
+                "tenqh": "Huyện Ninh Sơn",
+                "short_name": "/ninh-thuan/huyen-ninh-son"
+            },
+            {
+                "maqh": 556,
+                "tenqh": "Huyện Ninh Phước",
+                "short_name": "/ninh-thuan/huyen-ninh-phuoc"
+            },
+            {
+                "maqh": 678,
+                "tenqh": "Tỉnh Ninh Thuận",
+                "short_name": "/ninh-thuan/tinh-ninh-thuan"
+            }
+        ]
+    },
+    {
+        "matinh": 33,
+        "tentinh": "Lào Cai",
+        "short_name": "/lao-cai",
+        "quan_huyen": [
+            {
+                "maqh": 114,
+                "tenqh": "Huyện Bắc Hà",
+                "short_name": "/lao-cai/huyen-bac-ha"
+            },
+            {
+                "maqh": 205,
+                "tenqh": "Huyện Văn Bàn",
+                "short_name": "/lao-cai/huyen-van-ban"
+            },
+            {
+                "maqh": 479,
+                "tenqh": "Huyện Bảo Thắng",
+                "short_name": "/lao-cai/huyen-bao-thang"
+            },
+            {
+                "maqh": 644,
+                "tenqh": "Huyện Bảo Yên",
+                "short_name": "/lao-cai/huyen-bao-yen"
+            },
+            {
+                "maqh": 96,
+                "tenqh": "Huyện Bát Xát",
+                "short_name": "/lao-cai/huyen-bat-xat"
+            },
+            {
+                "maqh": 95,
+                "tenqh": "Thành Phố Lào Cai",
+                "short_name": "/lao-cai/thanh-pho-lao-cai"
+            },
+            {
+                "maqh": 716,
+                "tenqh": "Tỉnh Lào Cai",
+                "short_name": "/lao-cai/tinh-lao-cai"
+            },
+            {
+                "maqh": 756,
+                "tenqh": "Huyện Si Ma Cai",
+                "short_name": "/lao-cai/huyen-si-ma-cai"
+            },
+            {
+                "maqh": 770,
+                "tenqh": "Huyện Than Uyên (hêt H.lực)",
+                "short_name": "/lao-cai/huyen-than-uyen-het-h-luc"
+            },
+            {
+                "maqh": 154,
+                "tenqh": "Huyện Sa Pa",
+                "short_name": "/lao-cai/huyen-sa-pa"
+            },
+            {
+                "maqh": 683,
+                "tenqh": "Huyện Mường Khương",
+                "short_name": "/lao-cai/huyen-muong-khuong"
+            },
+            {
+                "maqh": 876,
+                "tenqh": "Thị Xã Sa Pa",
+                "short_name": "/lao-cai/thi-xa-sa-pa"
+            }
+        ]
+    },
+    {
+        "matinh": 34,
+        "tentinh": "Hải Phòng",
+        "short_name": "/hai-phong",
+        "quan_huyen": [
+            {
+                "maqh": 204,
+                "tenqh": "Quận Hải An",
+                "short_name": "/hai-phong/quan-hai-an"
+            },
+            {
+                "maqh": 211,
+                "tenqh": "Huyện An Dương",
+                "short_name": "/hai-phong/huyen-an-duong"
+            },
+            {
+                "maqh": 212,
+                "tenqh": "Quận Kiến An",
+                "short_name": "/hai-phong/quan-kien-an"
+            },
+            {
+                "maqh": 381,
+                "tenqh": "Huyện An Lão",
+                "short_name": "/hai-phong/huyen-an-lao"
+            },
+            {
+                "maqh": 401,
+                "tenqh": "Huyện Bạch Long Vĩ",
+                "short_name": "/hai-phong/huyen-bach-long-vi"
+            },
+            {
+                "maqh": 380,
+                "tenqh": "Quận Hồng Bàng",
+                "short_name": "/hai-phong/quan-hong-bang"
+            },
+            {
+                "maqh": 316,
+                "tenqh": "Huyện Vĩnh Bảo",
+                "short_name": "/hai-phong/huyen-vinh-bao"
+            },
+            {
+                "maqh": 520,
+                "tenqh": "Huyện Cát Hải",
+                "short_name": "/hai-phong/huyen-cat-hai"
+            },
+            {
+                "maqh": 318,
+                "tenqh": "Quận Lê Chân",
+                "short_name": "/hai-phong/quan-le-chan"
+            },
+            {
+                "maqh": 373,
+                "tenqh": "Quận Đồ Sơn",
+                "short_name": "/hai-phong/quan-do-son"
+            },
+            {
+                "maqh": 317,
+                "tenqh": "Quận Dương Kinh",
+                "short_name": "/hai-phong/quan-duong-kinh"
+            },
+            {
+                "maqh": 732,
+                "tenqh": "Thành Phố Hải Phòng",
+                "short_name": "/hai-phong/thanh-pho-hai-phong"
+            },
+            {
+                "maqh": 203,
+                "tenqh": "Huyện Thuỷ Nguyên",
+                "short_name": "/hai-phong/huyen-thuy-nguyen"
+            },
+            {
+                "maqh": 341,
+                "tenqh": "Huyện Tiên Lãng",
+                "short_name": "/hai-phong/huyen-tien-lang"
+            },
+            {
+                "maqh": 407,
+                "tenqh": "Huyện Kiến Thuỵ",
+                "short_name": "/hai-phong/huyen-kien-thuy"
+            },
+            {
+                "maqh": 98,
+                "tenqh": "Quận Ngô Quyền",
+                "short_name": "/hai-phong/quan-ngo-quyen"
+            }
+        ]
+    },
+    {
+        "matinh": 35,
+        "tentinh": "An Giang",
+        "short_name": "/an-giang",
+        "quan_huyen": [
+            {
+                "maqh": 274,
+                "tenqh": "Huyện An Phú",
+                "short_name": "/an-giang/huyen-an-phu"
+            },
+            {
+                "maqh": 719,
+                "tenqh": "Tỉnh An Giang",
+                "short_name": "/an-giang/tinh-an-giang"
+            },
+            {
+                "maqh": 842,
+                "tenqh": "Ấp Long Thạnh B",
+                "short_name": "/an-giang/ap-long-thanh-b"
+            },
+            {
+                "maqh": 387,
+                "tenqh": "Huyện Tịnh Biên",
+                "short_name": "/an-giang/huyen-tinh-bien"
+            },
+            {
+                "maqh": 177,
+                "tenqh": "Thành Phố Châu Đốc",
+                "short_name": "/an-giang/thanh-pho-chau-doc"
+            },
+            {
+                "maqh": 214,
+                "tenqh": "Huyện Châu Phú",
+                "short_name": "/an-giang/huyen-chau-phu"
+            },
+            {
+                "maqh": 215,
+                "tenqh": "Thị Xã Tân Châu",
+                "short_name": "/an-giang/thi-xa-tan-chau"
+            },
+            {
+                "maqh": 394,
+                "tenqh": "Huyện Châu Thành",
+                "short_name": "/an-giang/huyen-chau-thanh"
+            },
+            {
+                "maqh": 489,
+                "tenqh": "Huyện Chợ Mới",
+                "short_name": "/an-giang/huyen-cho-moi"
+            },
+            {
+                "maqh": 207,
+                "tenqh": "Huyện Thoại Sơn",
+                "short_name": "/an-giang/huyen-thoai-son"
+            },
+            {
+                "maqh": 502,
+                "tenqh": "Huyện Phú Tân",
+                "short_name": "/an-giang/huyen-phu-tan"
+            },
+            {
+                "maqh": 526,
+                "tenqh": "Huyện Tri Tôn",
+                "short_name": "/an-giang/huyen-tri-ton"
+            },
+            {
+                "maqh": 100,
+                "tenqh": "Thành Phố Long Xuyên",
+                "short_name": "/an-giang/thanh-pho-long-xuyen"
+            }
+        ]
+    },
+    {
+        "matinh": 36,
+        "tentinh": "Phú Thọ",
+        "short_name": "/phu-tho",
+        "quan_huyen": [
+            {
+                "maqh": 616,
+                "tenqh": "Huyện Thanh Ba",
+                "short_name": "/phu-tho/huyen-thanh-ba"
+            },
+            {
+                "maqh": 459,
+                "tenqh": "Huyện Cẩm Khê",
+                "short_name": "/phu-tho/huyen-cam-khe"
+            },
+            {
+                "maqh": 654,
+                "tenqh": "Huyện Đoan Hùng",
+                "short_name": "/phu-tho/huyen-doan-hung"
+            },
+            {
+                "maqh": 596,
+                "tenqh": "Huyện Hạ Hoà",
+                "short_name": "/phu-tho/huyen-ha-hoa"
+            },
+            {
+                "maqh": 209,
+                "tenqh": "Huyện Tân Sơn",
+                "short_name": "/phu-tho/huyen-tan-son"
+            },
+            {
+                "maqh": 273,
+                "tenqh": "Huyện Lâm Thao",
+                "short_name": "/phu-tho/huyen-lam-thao"
+            },
+            {
+                "maqh": 282,
+                "tenqh": "Huyện Tam Nông",
+                "short_name": "/phu-tho/huyen-tam-nong"
+            },
+            {
+                "maqh": 416,
+                "tenqh": "Huyện Thanh Sơn",
+                "short_name": "/phu-tho/huyen-thanh-son"
+            },
+            {
+                "maqh": 485,
+                "tenqh": "Huyện Phù Ninh",
+                "short_name": "/phu-tho/huyen-phu-ninh"
+            },
+            {
+                "maqh": 614,
+                "tenqh": "Huyện Yên Lập",
+                "short_name": "/phu-tho/huyen-yen-lap"
+            },
+            {
+                "maqh": 630,
+                "tenqh": "Huyện Thanh Thuỷ",
+                "short_name": "/phu-tho/huyen-thanh-thuy"
+            },
+            {
+                "maqh": 104,
+                "tenqh": "Thành Phố Việt Trì",
+                "short_name": "/phu-tho/thanh-pho-viet-tri"
+            },
+            {
+                "maqh": 476,
+                "tenqh": "Thị Xã Phú Thọ",
+                "short_name": "/phu-tho/thi-xa-phu-tho"
+            },
+            {
+                "maqh": 715,
+                "tenqh": "Tỉnh Phú Thọ",
+                "short_name": "/phu-tho/tinh-phu-tho"
+            }
+        ]
+    },
+    {
+        "matinh": 37,
+        "tentinh": "Tây Ninh",
+        "short_name": "/tay-ninh",
+        "quan_huyen": [
+            {
+                "maqh": 176,
+                "tenqh": "Huyện Trảng Bàng",
+                "short_name": "/tay-ninh/huyen-trang-bang"
+            },
+            {
+                "maqh": 882,
+                "tenqh": "Thị Xã Trảng Bàng",
+                "short_name": "/tay-ninh/thi-xa-trang-bang"
+            },
+            {
+                "maqh": 193,
+                "tenqh": "Huyện Bến Cầu",
+                "short_name": "/tay-ninh/huyen-ben-cau"
+            },
+            {
+                "maqh": 194,
+                "tenqh": "Huyện Tân Biên",
+                "short_name": "/tay-ninh/huyen-tan-bien"
+            },
+            {
+                "maqh": 131,
+                "tenqh": "Huyện Dương Minh Châu",
+                "short_name": "/tay-ninh/huyen-duong-minh-chau"
+            },
+            {
+                "maqh": 557,
+                "tenqh": "Huyện Châu Thành",
+                "short_name": "/tay-ninh/huyen-chau-thanh"
+            },
+            {
+                "maqh": 682,
+                "tenqh": "Huyện Tân Châu",
+                "short_name": "/tay-ninh/huyen-tan-chau"
+            },
+            {
+                "maqh": 201,
+                "tenqh": "Huyện Gò Dầu",
+                "short_name": "/tay-ninh/huyen-go-dau"
+            },
+            {
+                "maqh": 107,
+                "tenqh": "Huyện Hoà Thành",
+                "short_name": "/tay-ninh/huyen-hoa-thanh"
+            },
+            {
+                "maqh": 884,
+                "tenqh": "Thị Xã Hoà Thành",
+                "short_name": "/tay-ninh/thi-xa-hoa-thanh"
+            },
+            {
+                "maqh": 108,
+                "tenqh": "Thành Phố Tây Ninh",
+                "short_name": "/tay-ninh/thanh-pho-tay-ninh"
+            },
+            {
+                "maqh": 726,
+                "tenqh": "Tỉnh Tây Ninh",
+                "short_name": "/tay-ninh/tinh-tay-ninh"
+            }
+        ]
+    },
+    {
+        "matinh": 38,
+        "tentinh": "Khánh Hòa",
+        "short_name": "/khanh-hoa",
+        "quan_huyen": [
+            {
+                "maqh": 420,
+                "tenqh": "Huyện Cam Lâm",
+                "short_name": "/khanh-hoa/huyen-cam-lam"
+            },
+            {
+                "maqh": 435,
+                "tenqh": "Thành Phố Cam Ranh",
+                "short_name": "/khanh-hoa/thanh-pho-cam-ranh"
+            },
+            {
+                "maqh": 308,
+                "tenqh": "Huyện Diên Khánh",
+                "short_name": "/khanh-hoa/huyen-dien-khanh"
+            },
+            {
+                "maqh": 501,
+                "tenqh": "Thị Xã Ninh Hoà",
+                "short_name": "/khanh-hoa/thi-xa-ninh-hoa"
+            },
+            {
+                "maqh": 764,
+                "tenqh": "Tỉnh Khánh Hoà",
+                "short_name": "/khanh-hoa/tinh-khanh-hoa"
+            },
+            {
+                "maqh": 395,
+                "tenqh": "Huyện Vạn Ninh",
+                "short_name": "/khanh-hoa/huyen-van-ninh"
+            },
+            {
+                "maqh": 643,
+                "tenqh": "Huyện Khánh Vĩnh",
+                "short_name": "/khanh-hoa/huyen-khanh-vinh"
+            },
+            {
+                "maqh": 711,
+                "tenqh": "Huyện Khánh Sơn",
+                "short_name": "/khanh-hoa/huyen-khanh-son"
+            },
+            {
+                "maqh": 773,
+                "tenqh": "Huyện Trường Sa",
+                "short_name": "/khanh-hoa/huyen-truong-sa"
+            },
+            {
+                "maqh": 109,
+                "tenqh": "Thành Phố Nha Trang",
+                "short_name": "/khanh-hoa/thanh-pho-nha-trang"
+            }
+        ]
+    },
+    {
+        "matinh": 39,
+        "tentinh": "Phú Yên",
+        "short_name": "/phu-yen",
+        "quan_huyen": [
+            {
+                "maqh": 859,
+                "tenqh": "Số 07-lc Lý Thái Tổ",
+                "short_name": "/phu-yen/so-07-lc-ly-thai-to"
+            },
+            {
+                "maqh": 857,
+                "tenqh": "Số 200quốc Lộ 1a",
+                "short_name": "/phu-yen/so-200quo-c-lo-1a"
+            },
+            {
+                "maqh": 856,
+                "tenqh": "Số 30 Lương Văn Chánh",
+                "short_name": "/phu-yen/so-30-luong-van-chanh"
+            },
+            {
+                "maqh": 894,
+                "tenqh": "33 Trần Quý Cáp",
+                "short_name": "/phu-yen/33-tran-quy-cap"
+            },
+            {
+                "maqh": 858,
+                "tenqh": "Số 68h Hùng Vương",
+                "short_name": "/phu-yen/so-68h-hung-vuong"
+            },
+            {
+                "maqh": 855,
+                "tenqh": "Số 94 Nguyễn Thị Minh Khai",
+                "short_name": "/phu-yen/so-94-nguyen-thi-minh-khai"
+            },
+            {
+                "maqh": 243,
+                "tenqh": "Huyện Tuy An",
+                "short_name": "/phu-yen/huyen-tuy-an"
+            },
+            {
+                "maqh": 619,
+                "tenqh": "Thị Xã Sông Cầu",
+                "short_name": "/phu-yen/thi-xa-song-cau"
+            },
+            {
+                "maqh": 110,
+                "tenqh": "Huyện Đông Hoà",
+                "short_name": "/phu-yen/huyen-dong-hoa"
+            },
+            {
+                "maqh": 610,
+                "tenqh": "Huyện Đồng Xuân",
+                "short_name": "/phu-yen/huyen-dong-xuan"
+            },
+            {
+                "maqh": 897,
+                "tenqh": "Thị Xã Đông Hoà",
+                "short_name": "/phu-yen/thi-xa-dong-hoa"
+            },
+            {
+                "maqh": 685,
+                "tenqh": "Huyện Sông Hinh",
+                "short_name": "/phu-yen/huyen-song-hinh"
+            },
+            {
+                "maqh": 247,
+                "tenqh": "Huyện Phú Hoà",
+                "short_name": "/phu-yen/huyen-phu-hoa"
+            },
+            {
+                "maqh": 375,
+                "tenqh": "Thành Phố Tuy Hoà",
+                "short_name": "/phu-yen/thanh-pho-tuy-hoa"
+            },
+            {
+                "maqh": 458,
+                "tenqh": "Huyện  Tây  Hoà",
+                "short_name": "/phu-yen/huyen-tay-hoa"
+            },
+            {
+                "maqh": 608,
+                "tenqh": "Huyện Sơn Hoà",
+                "short_name": "/phu-yen/huyen-son-hoa"
+            },
+            {
+                "maqh": 777,
+                "tenqh": "Tp Tuy Hoà",
+                "short_name": "/phu-yen/tp-tuy-hoa"
+            },
+            {
+                "maqh": 699,
+                "tenqh": "Tỉnh Phú Yên",
+                "short_name": "/phu-yen/tinh-phu-yen"
+            }
+        ]
+    },
+    {
+        "matinh": 40,
+        "tentinh": "Hòa Bình",
+        "short_name": "/hoa-binh",
+        "quan_huyen": [
+            {
+                "maqh": 363,
+                "tenqh": "Huyện Đà Bắc",
+                "short_name": "/hoa-binh/huyen-da-bac"
+            },
+            {
+                "maqh": 137,
+                "tenqh": "Thành Phố Hoà Bình",
+                "short_name": "/hoa-binh/thanh-pho-hoa-binh"
+            },
+            {
+                "maqh": 666,
+                "tenqh": "Tỉnh Hoà Bình",
+                "short_name": "/hoa-binh/tinh-hoa-binh"
+            },
+            {
+                "maqh": 155,
+                "tenqh": "Huyện Kim Bôi",
+                "short_name": "/hoa-binh/huyen-kim-boi"
+            },
+            {
+                "maqh": 493,
+                "tenqh": "Huyện Cao Phong",
+                "short_name": "/hoa-binh/huyen-cao-phong"
+            },
+            {
+                "maqh": 495,
+                "tenqh": "Huyện Mai Châu",
+                "short_name": "/hoa-binh/huyen-mai-chau"
+            },
+            {
+                "maqh": 117,
+                "tenqh": "Huyện Lương Sơn",
+                "short_name": "/hoa-binh/huyen-luong-son"
+            },
+            {
+                "maqh": 156,
+                "tenqh": "Huyện Lạc Thuỷ",
+                "short_name": "/hoa-binh/huyen-lac-thuy"
+            },
+            {
+                "maqh": 447,
+                "tenqh": "Huyện Lạc Sơn",
+                "short_name": "/hoa-binh/huyen-lac-son"
+            },
+            {
+                "maqh": 512,
+                "tenqh": "Huyện Tân Lạc",
+                "short_name": "/hoa-binh/huyen-tan-lac"
+            },
+            {
+                "maqh": 606,
+                "tenqh": "Huyện Yên Thuỷ",
+                "short_name": "/hoa-binh/huyen-yen-thuy"
+            },
+            {
+                "maqh": 701,
+                "tenqh": "Huyện Kỳ Sơn",
+                "short_name": "/hoa-binh/huyen-ky-son"
+            }
+        ]
+    },
+    {
+        "matinh": 41,
+        "tentinh": "Tuyên Quang",
+        "short_name": "/tuyen-quang",
+        "quan_huyen": [
+            {
+                "maqh": 704,
+                "tenqh": "Huyện Lâm Bình",
+                "short_name": "/tuyen-quang/huyen-lam-binh"
+            },
+            {
+                "maqh": 652,
+                "tenqh": "Huyện Chiêm Hoá",
+                "short_name": "/tuyen-quang/huyen-chiem-hoa"
+            },
+            {
+                "maqh": 446,
+                "tenqh": "Huyện Sơn Dương",
+                "short_name": "/tuyen-quang/huyen-son-duong"
+            },
+            {
+                "maqh": 677,
+                "tenqh": "Huyện Hàm Yên",
+                "short_name": "/tuyen-quang/huyen-ham-yen"
+            },
+            {
+                "maqh": 694,
+                "tenqh": "Huyện Na Hang",
+                "short_name": "/tuyen-quang/huyen-na-hang"
+            },
+            {
+                "maqh": 506,
+                "tenqh": "Huyện Yên Sơn",
+                "short_name": "/tuyen-quang/huyen-yen-son"
+            },
+            {
+                "maqh": 128,
+                "tenqh": "Thành Phố Tuyên Quang",
+                "short_name": "/tuyen-quang/thanh-pho-tuyen-quang"
+            },
+            {
+                "maqh": 733,
+                "tenqh": "Tỉnh Tuyên Quang",
+                "short_name": "/tuyen-quang/tinh-tuyen-quang"
+            }
+        ]
+    },
+    {
+        "matinh": 42,
+        "tentinh": "Lai Châu",
+        "short_name": "/lai-chau",
+        "quan_huyen": [
+            {
+                "maqh": 129,
+                "tenqh": "Thành Phố Lai Châu",
+                "short_name": "/lai-chau/thanh-pho-lai-chau"
+            },
+            {
+                "maqh": 742,
+                "tenqh": "Tỉnh Lai Châu",
+                "short_name": "/lai-chau/tinh-lai-chau"
+            },
+            {
+                "maqh": 210,
+                "tenqh": "Huyện Tam Đường",
+                "short_name": "/lai-chau/huyen-tam-duong"
+            },
+            {
+                "maqh": 428,
+                "tenqh": "Huyện Sìn Hồ",
+                "short_name": "/lai-chau/huyen-sin-ho"
+            },
+            {
+                "maqh": 275,
+                "tenqh": "Huyện Mường Tè",
+                "short_name": "/lai-chau/huyen-muong-te"
+            },
+            {
+                "maqh": 312,
+                "tenqh": "Huyện Than Uyên",
+                "short_name": "/lai-chau/huyen-than-uyen"
+            },
+            {
+                "maqh": 414,
+                "tenqh": "Huyện Nậm Nhùn",
+                "short_name": "/lai-chau/huyen-nam-nhun"
+            },
+            {
+                "maqh": 593,
+                "tenqh": "Huyện Tân Uyên",
+                "short_name": "/lai-chau/huyen-tan-uyen"
+            },
+            {
+                "maqh": 607,
+                "tenqh": "Huyện Phong Thổ",
+                "short_name": "/lai-chau/huyen-phong-tho"
+            }
+        ]
+    },
+    {
+        "matinh": 43,
+        "tentinh": "Hậu Giang",
+        "short_name": "/hau-giang",
+        "quan_huyen": [
+            {
+                "maqh": 136,
+                "tenqh": "Huyện Châu Thành A",
+                "short_name": "/hau-giang/huyen-chau-thanh-a"
+            },
+            {
+                "maqh": 564,
+                "tenqh": "Thị  Xã Ngã Bảy",
+                "short_name": "/hau-giang/thi-xa-nga-bay"
+            },
+            {
+                "maqh": 885,
+                "tenqh": "Thành Phố Ngã Bảy",
+                "short_name": "/hau-giang/thanh-pho-nga-bay"
+            },
+            {
+                "maqh": 358,
+                "tenqh": "Huyện Châu Thành",
+                "short_name": "/hau-giang/huyen-chau-thanh"
+            },
+            {
+                "maqh": 730,
+                "tenqh": "Tỉnh Hậu Giang",
+                "short_name": "/hau-giang/tinh-hau-giang"
+            },
+            {
+                "maqh": 611,
+                "tenqh": "Huyện Phụng Hiệp",
+                "short_name": "/hau-giang/huyen-phung-hiep"
+            },
+            {
+                "maqh": 173,
+                "tenqh": "Huyện Vị Thủy",
+                "short_name": "/hau-giang/huyen-vi-thuy"
+            },
+            {
+                "maqh": 235,
+                "tenqh": "Huyện Long Mỹ",
+                "short_name": "/hau-giang/huyen-long-my"
+            },
+            {
+                "maqh": 754,
+                "tenqh": "Thị Xã Long Mỹ",
+                "short_name": "/hau-giang/thi-xa-long-my"
+            },
+            {
+                "maqh": 800,
+                "tenqh": "Thành Phố Vị Thanh",
+                "short_name": "/hau-giang/thanh-pho-vi-thanh"
+            },
+            {
+                "maqh": 170,
+                "tenqh": "Tp Vị Thanh",
+                "short_name": "/hau-giang/tp-vi-thanh"
+            }
+        ]
+    },
+    {
+        "matinh": 44,
+        "tentinh": "Lâm Đồng",
+        "short_name": "/lam-dong",
+        "quan_huyen": [
+            {
+                "maqh": 309,
+                "tenqh": "Thành Phố Bảo Lộc",
+                "short_name": "/lam-dong/thanh-pho-bao-loc"
+            },
+            {
+                "maqh": 620,
+                "tenqh": "Huyện Bảo Lâm",
+                "short_name": "/lam-dong/huyen-bao-lam"
+            },
+            {
+                "maqh": 646,
+                "tenqh": "Huyện Cát Tiên",
+                "short_name": "/lam-dong/huyen-cat-tien"
+            },
+            {
+                "maqh": 138,
+                "tenqh": "Thành Phố Đà Lạt",
+                "short_name": "/lam-dong/thanh-pho-da-lat"
+            },
+            {
+                "maqh": 433,
+                "tenqh": "Huyện Đạ Huoai",
+                "short_name": "/lam-dong/huyen-da-huoai"
+            },
+            {
+                "maqh": 645,
+                "tenqh": "Huyện Đạ Tẻh",
+                "short_name": "/lam-dong/huyen-da-teh"
+            },
+            {
+                "maqh": 628,
+                "tenqh": "Huyện Đam Rông",
+                "short_name": "/lam-dong/huyen-dam-rong"
+            },
+            {
+                "maqh": 396,
+                "tenqh": "Huyện Di Linh",
+                "short_name": "/lam-dong/huyen-di-linh"
+            },
+            {
+                "maqh": 413,
+                "tenqh": "Huyện Đơn Dương",
+                "short_name": "/lam-dong/huyen-don-duong"
+            },
+            {
+                "maqh": 747,
+                "tenqh": "Tỉnh Lâm Đồng",
+                "short_name": "/lam-dong/tinh-lam-dong"
+            },
+            {
+                "maqh": 227,
+                "tenqh": "Huyện Đức Trọng",
+                "short_name": "/lam-dong/huyen-duc-trong"
+            },
+            {
+                "maqh": 609,
+                "tenqh": "Huyện Lạc Dương",
+                "short_name": "/lam-dong/huyen-lac-duong"
+            },
+            {
+                "maqh": 139,
+                "tenqh": "Huyện Lâm Hà",
+                "short_name": "/lam-dong/huyen-lam-ha"
+            }
+        ]
+    },
+    {
+        "matinh": 45,
+        "tentinh": "Lạng Sơn",
+        "short_name": "/lang-son",
+        "quan_huyen": [
+            {
+                "maqh": 469,
+                "tenqh": "Huyện Bắc Sơn",
+                "short_name": "/lang-son/huyen-bac-son"
+            },
+            {
+                "maqh": 474,
+                "tenqh": "Huyện Lộc Bình",
+                "short_name": "/lang-son/huyen-loc-binh"
+            },
+            {
+                "maqh": 613,
+                "tenqh": "Huyện Bình Gia",
+                "short_name": "/lang-son/huyen-binh-gia"
+            },
+            {
+                "maqh": 491,
+                "tenqh": "Huyện Cao Lộc",
+                "short_name": "/lang-son/huyen-cao-loc"
+            },
+            {
+                "maqh": 482,
+                "tenqh": "Huyện Chi Lăng",
+                "short_name": "/lang-son/huyen-chi-lang"
+            },
+            {
+                "maqh": 625,
+                "tenqh": "Huyện Tràng Định",
+                "short_name": "/lang-son/huyen-trang-dinh"
+            },
+            {
+                "maqh": 705,
+                "tenqh": "Huyện Đình Lập",
+                "short_name": "/lang-son/huyen-dinh-lap"
+            },
+            {
+                "maqh": 528,
+                "tenqh": "Huyện Hữu Lũng",
+                "short_name": "/lang-son/huyen-huu-lung"
+            },
+            {
+                "maqh": 457,
+                "tenqh": "Huyện Văn Quan",
+                "short_name": "/lang-son/huyen-van-quan"
+            },
+            {
+                "maqh": 505,
+                "tenqh": "Huyện Văn Lãng",
+                "short_name": "/lang-son/huyen-van-lang"
+            },
+            {
+                "maqh": 142,
+                "tenqh": "Thành Phố Lạng Sơn",
+                "short_name": "/lang-son/thanh-pho-lang-son"
+            },
+            {
+                "maqh": 671,
+                "tenqh": "Tỉnh Lạng Sơn",
+                "short_name": "/lang-son/tinh-lang-son"
+            }
+        ]
+    },
+    {
+        "matinh": 46,
+        "tentinh": "Hà Nam",
+        "short_name": "/ha-nam",
+        "quan_huyen": [
+            {
+                "maqh": 543,
+                "tenqh": "Huyện Kim Bảng",
+                "short_name": "/ha-nam/huyen-kim-bang"
+            },
+            {
+                "maqh": 383,
+                "tenqh": "Huyện Bình Lục",
+                "short_name": "/ha-nam/huyen-binh-luc"
+            },
+            {
+                "maqh": 878,
+                "tenqh": "Khu Công Nghiệp Châu Sơn",
+                "short_name": "/ha-nam/khu-cong-nghiep-chau-son"
+            },
+            {
+                "maqh": 149,
+                "tenqh": "Huyện Duy Tiên",
+                "short_name": "/ha-nam/huyen-duy-tien"
+            },
+            {
+                "maqh": 877,
+                "tenqh": "Thị Xã Duy Tiên",
+                "short_name": "/ha-nam/thi-xa-duy-tien"
+            },
+            {
+                "maqh": 720,
+                "tenqh": "Tỉnh Hà Nam",
+                "short_name": "/ha-nam/tinh-ha-nam"
+            },
+            {
+                "maqh": 382,
+                "tenqh": "Huyện Thanh Liêm",
+                "short_name": "/ha-nam/huyen-thanh-liem"
+            },
+            {
+                "maqh": 449,
+                "tenqh": "Huyện Lý Nhân",
+                "short_name": "/ha-nam/huyen-ly-nhan"
+            },
+            {
+                "maqh": 143,
+                "tenqh": "Thành Phố Phủ Lý",
+                "short_name": "/ha-nam/thanh-pho-phu-ly"
+            }
+        ]
+    },
+    {
+        "matinh": 47,
+        "tentinh": "Bắc Cạn",
+        "short_name": "/bac-can",
+        "quan_huyen": [
+            {
+                "maqh": 536,
+                "tenqh": "Huyện Ba Bể",
+                "short_name": "/bac-can/huyen-ba-be"
+            },
+            {
+                "maqh": 145,
+                "tenqh": "Thành Phố Bắc Cạn",
+                "short_name": "/bac-can/thanh-pho-bac-can"
+            },
+            {
+                "maqh": 737,
+                "tenqh": "Tỉnh Bắc Cạn",
+                "short_name": "/bac-can/tinh-bac-can"
+            },
+            {
+                "maqh": 443,
+                "tenqh": "Huyện Bạch Thông",
+                "short_name": "/bac-can/huyen-bach-thong"
+            },
+            {
+                "maqh": 344,
+                "tenqh": "Huyện Chợ Mới",
+                "short_name": "/bac-can/huyen-cho-moi"
+            },
+            {
+                "maqh": 708,
+                "tenqh": "Huyện Chợ Đồn",
+                "short_name": "/bac-can/huyen-cho-don"
+            },
+            {
+                "maqh": 345,
+                "tenqh": "Huyện Na Rì",
+                "short_name": "/bac-can/huyen-na-ri"
+            },
+            {
+                "maqh": 695,
+                "tenqh": "Huyện Pác Nặm",
+                "short_name": "/bac-can/huyen-pac-nam"
+            },
+            {
+                "maqh": 736,
+                "tenqh": "Huyện Ngân Sơn",
+                "short_name": "/bac-can/huyen-ngan-son"
+            }
+        ]
+    },
+    {
+        "matinh": 48,
+        "tentinh": "Bình Định",
+        "short_name": "/binh-dinh",
+        "quan_huyen": [
+            {
+                "maqh": 237,
+                "tenqh": "Huyện Hoài Ân",
+                "short_name": "/binh-dinh/huyen-hoai-an"
+            },
+            {
+                "maqh": 346,
+                "tenqh": "Thị Xã An Nhơn",
+                "short_name": "/binh-dinh/thi-xa-an-nhon"
+            },
+            {
+                "maqh": 623,
+                "tenqh": "Huyện An Lão",
+                "short_name": "/binh-dinh/huyen-an-lao"
+            },
+            {
+                "maqh": 663,
+                "tenqh": "Tỉnh Bình Định",
+                "short_name": "/binh-dinh/tinh-binh-dinh"
+            },
+            {
+                "maqh": 622,
+                "tenqh": "Huyện Vân Canh",
+                "short_name": "/binh-dinh/huyen-van-canh"
+            },
+            {
+                "maqh": 152,
+                "tenqh": "Huyện Phù Cát",
+                "short_name": "/binh-dinh/huyen-phu-cat"
+            },
+            {
+                "maqh": 873,
+                "tenqh": "Khu Cn Long Mỹ",
+                "short_name": "/binh-dinh/khu-cn-long-my"
+            },
+            {
+                "maqh": 595,
+                "tenqh": "Huyện Hoài Nhơn",
+                "short_name": "/binh-dinh/huyen-hoai-nhon"
+            },
+            {
+                "maqh": 898,
+                "tenqh": "Thị Xã Hoài Nhơn",
+                "short_name": "/binh-dinh/thi-xa-hoai-nhon"
+            },
+            {
+                "maqh": 163,
+                "tenqh": "Huyện Phù Mỹ",
+                "short_name": "/binh-dinh/huyen-phu-my"
+            },
+            {
+                "maqh": 175,
+                "tenqh": "Huyện Tuy Phước",
+                "short_name": "/binh-dinh/huyen-tuy-phuoc"
+            },
+            {
+                "maqh": 448,
+                "tenqh": "Huyện Tây Sơn",
+                "short_name": "/binh-dinh/huyen-tay-son"
+            },
+            {
+                "maqh": 744,
+                "tenqh": "Huyện Vĩnh Thạnh",
+                "short_name": "/binh-dinh/huyen-vinh-thanh"
+            },
+            {
+                "maqh": 147,
+                "tenqh": "Thành Phố Quy Nhơn",
+                "short_name": "/binh-dinh/thanh-pho-quy-nhon"
+            }
+        ]
+    },
+    {
+        "matinh": 49,
+        "tentinh": "Cao Bằng",
+        "short_name": "/cao-bang",
+        "quan_huyen": [
+            {
+                "maqh": 656,
+                "tenqh": "Huyện Hoà An",
+                "short_name": "/cao-bang/huyen-hoa-an"
+            },
+            {
+                "maqh": 700,
+                "tenqh": "Huyện Thạch An",
+                "short_name": "/cao-bang/huyen-thach-an"
+            },
+            {
+                "maqh": 153,
+                "tenqh": "Thành Phố Cao Bằng",
+                "short_name": "/cao-bang/thanh-pho-cao-bang"
+            },
+            {
+                "maqh": 748,
+                "tenqh": "Tỉnh Cao Bằng",
+                "short_name": "/cao-bang/tinh-cao-bang"
+            },
+            {
+                "maqh": 668,
+                "tenqh": "Huyện Bảo Lạc",
+                "short_name": "/cao-bang/huyen-bao-lac"
+            },
+            {
+                "maqh": 757,
+                "tenqh": "Huyện Bảo Lâm",
+                "short_name": "/cao-bang/huyen-bao-lam"
+            },
+            {
+                "maqh": 612,
+                "tenqh": "Huyện Nguyên Bình",
+                "short_name": "/cao-bang/huyen-nguyen-binh"
+            },
+            {
+                "maqh": 752,
+                "tenqh": "Huyện Hà Quảng",
+                "short_name": "/cao-bang/huyen-ha-quang"
+            },
+            {
+                "maqh": 762,
+                "tenqh": "Huyện Hạ Lang",
+                "short_name": "/cao-bang/huyen-ha-lang"
+            },
+            {
+                "maqh": 751,
+                "tenqh": "Huyện Phục Hoà",
+                "short_name": "/cao-bang/huyen-phuc-hoa"
+            },
+            {
+                "maqh": 900,
+                "tenqh": "Huyện Quảng Hòa",
+                "short_name": "/cao-bang/huyen-quang-hoa"
+            },
+            {
+                "maqh": 640,
+                "tenqh": "Huyện Trà Lĩnh",
+                "short_name": "/cao-bang/huyen-tra-linh"
+            },
+            {
+                "maqh": 649,
+                "tenqh": "Huyện Quảng Uyên",
+                "short_name": "/cao-bang/huyen-quang-uyen"
+            },
+            {
+                "maqh": 706,
+                "tenqh": "Huyện Thông Nông",
+                "short_name": "/cao-bang/huyen-thong-nong"
+            },
+            {
+                "maqh": 707,
+                "tenqh": "Huyện Trùng Khánh",
+                "short_name": "/cao-bang/huyen-trung-khanh"
+            }
+        ]
+    },
+    {
+        "matinh": 50,
+        "tentinh": "Sơn La",
+        "short_name": "/son-la",
+        "quan_huyen": [
+            {
+                "maqh": 464,
+                "tenqh": "Huyện Bắc Yên",
+                "short_name": "/son-la/huyen-bac-yen"
+            },
+            {
+                "maqh": 226,
+                "tenqh": "Huyện Mộc Châu",
+                "short_name": "/son-la/huyen-moc-chau"
+            },
+            {
+                "maqh": 295,
+                "tenqh": "Huyện Thuận Châu",
+                "short_name": "/son-la/huyen-thuan-chau"
+            },
+            {
+                "maqh": 740,
+                "tenqh": "Huyện Yên Châu",
+                "short_name": "/son-la/huyen-yen-chau"
+            },
+            {
+                "maqh": 552,
+                "tenqh": "Huyện Sốp Cộp",
+                "short_name": "/son-la/huyen-sop-cop"
+            },
+            {
+                "maqh": 597,
+                "tenqh": "Huyện Vân Hồ",
+                "short_name": "/son-la/huyen-van-ho"
+            },
+            {
+                "maqh": 162,
+                "tenqh": "Huyện Mai Sơn",
+                "short_name": "/son-la/huyen-mai-son"
+            },
+            {
+                "maqh": 315,
+                "tenqh": "Huyện Quỳnh Nhai",
+                "short_name": "/son-la/huyen-quynh-nhai"
+            },
+            {
+                "maqh": 412,
+                "tenqh": "Huyện Phù Yên",
+                "short_name": "/son-la/huyen-phu-yen"
+            },
+            {
+                "maqh": 566,
+                "tenqh": "Huyện Mường La",
+                "short_name": "/son-la/huyen-muong-la"
+            },
+            {
+                "maqh": 590,
+                "tenqh": "Huyện Sông Mã",
+                "short_name": "/son-la/huyen-song-ma"
+            },
+            {
+                "maqh": 403,
+                "tenqh": "Thành Phố Sơn La",
+                "short_name": "/son-la/thanh-pho-son-la"
+            },
+            {
+                "maqh": 686,
+                "tenqh": "Tỉnh Sơn La",
+                "short_name": "/son-la/tinh-son-la"
+            },
+            {
+                "maqh": 779,
+                "tenqh": "Tp. Sơn La",
+                "short_name": "/son-la/tp-son-la"
+            }
+        ]
+    },
+    {
+        "matinh": 51,
+        "tentinh": "Quảng Bình",
+        "short_name": "/quang-binh",
+        "quan_huyen": [
+            {
+                "maqh": 568,
+                "tenqh": "Thị Xã Ba Đồn",
+                "short_name": "/quang-binh/thi-xa-ba-don"
+            },
+            {
+                "maqh": 714,
+                "tenqh": "Tỉnh Quảng Bình",
+                "short_name": "/quang-binh/tinh-quang-binh"
+            },
+            {
+                "maqh": 284,
+                "tenqh": "Huyện Bố Trạch",
+                "short_name": "/quang-binh/huyen-bo-trach"
+            },
+            {
+                "maqh": 834,
+                "tenqh": "T.lộc Đại",
+                "short_name": "/quang-binh/t-loc-dai"
+            },
+            {
+                "maqh": 165,
+                "tenqh": "Thành Phố Đồng Hới",
+                "short_name": "/quang-binh/thanh-pho-dong-hoi"
+            },
+            {
+                "maqh": 833,
+                "tenqh": "Thôn Đồng Giang",
+                "short_name": "/quang-binh/thon-dong-giang"
+            },
+            {
+                "maqh": 370,
+                "tenqh": "Huyện Tuyên Hoá",
+                "short_name": "/quang-binh/huyen-tuyen-hoa"
+            },
+            {
+                "maqh": 617,
+                "tenqh": "Huyện Minh Hoá",
+                "short_name": "/quang-binh/huyen-minh-hoa"
+            },
+            {
+                "maqh": 285,
+                "tenqh": "Huyện Lệ Thuỷ",
+                "short_name": "/quang-binh/huyen-le-thuy"
+            },
+            {
+                "maqh": 347,
+                "tenqh": "Huyện Quảng Ninh",
+                "short_name": "/quang-binh/huyen-quang-ninh"
+            },
+            {
+                "maqh": 400,
+                "tenqh": "Huyện Quảng Trạch",
+                "short_name": "/quang-binh/huyen-quang-trach"
+            }
+        ]
+    },
+    {
+        "matinh": 52,
+        "tentinh": "Quảng Trị",
+        "short_name": "/quang-tri",
+        "quan_huyen": [
+            {
+                "maqh": 905,
+                "tenqh": "Số 11 Đường Trần Hưng Đạo",
+                "short_name": "/quang-tri/so-11-duong-tran-hung-dao"
+            },
+            {
+                "maqh": 906,
+                "tenqh": "79a Nguyễn Trãi",
+                "short_name": "/quang-tri/79a-nguyen-trai"
+            },
+            {
+                "maqh": 481,
+                "tenqh": "Huyện Cam Lộ",
+                "short_name": "/quang-tri/huyen-cam-lo"
+            },
+            {
+                "maqh": 768,
+                "tenqh": "Huyện Đảo Cồn Cỏ",
+                "short_name": "/quang-tri/huyen-dao-con-co"
+            },
+            {
+                "maqh": 166,
+                "tenqh": "Huyện Đa Krông",
+                "short_name": "/quang-tri/huyen-da-krong"
+            },
+            {
+                "maqh": 480,
+                "tenqh": "Thành Phố Đông Hà",
+                "short_name": "/quang-tri/thanh-pho-dong-ha"
+            },
+            {
+                "maqh": 522,
+                "tenqh": "Huyện Gio Linh",
+                "short_name": "/quang-tri/huyen-gio-linh"
+            },
+            {
+                "maqh": 535,
+                "tenqh": "Huyện Hải Lăng",
+                "short_name": "/quang-tri/huyen-hai-lang"
+            },
+            {
+                "maqh": 331,
+                "tenqh": "Huyện Hướng Hoá",
+                "short_name": "/quang-tri/huyen-huong-hoa"
+            },
+            {
+                "maqh": 529,
+                "tenqh": "Huyện Vĩnh Linh",
+                "short_name": "/quang-tri/huyen-vinh-linh"
+            },
+            {
+                "maqh": 532,
+                "tenqh": "Huyện Triệu Phong",
+                "short_name": "/quang-tri/huyen-trieu-phong"
+            },
+            {
+                "maqh": 434,
+                "tenqh": "Thị Xã Quảng Trị",
+                "short_name": "/quang-tri/thi-xa-quang-tri"
+            },
+            {
+                "maqh": 731,
+                "tenqh": "Tỉnh Quảng Trị",
+                "short_name": "/quang-tri/tinh-quang-tri"
+            }
+        ]
+    },
+    {
+        "matinh": 53,
+        "tentinh": "Gia Lai",
+        "short_name": "/gia-lai",
+        "quan_huyen": [
+            {
+                "maqh": 838,
+                "tenqh": "14 Thống Nhất",
+                "short_name": "/gia-lai/14-thong-nhat"
+            },
+            {
+                "maqh": 837,
+                "tenqh": "17 Lê Hồng Phong",
+                "short_name": "/gia-lai/17-le-hong-phong"
+            },
+            {
+                "maqh": 839,
+                "tenqh": "Số 38 Trần Cao Vân",
+                "short_name": "/gia-lai/so-38-tran-cao-van"
+            },
+            {
+                "maqh": 836,
+                "tenqh": "Tổ 5",
+                "short_name": "/gia-lai/to-5"
+            },
+            {
+                "maqh": 835,
+                "tenqh": "54 Huỳnh Thúc Kháng",
+                "short_name": "/gia-lai/54-huynh-thuc-khang"
+            },
+            {
+                "maqh": 840,
+                "tenqh": "778 Phạm Văn Đồng",
+                "short_name": "/gia-lai/778-pham-van-dong"
+            },
+            {
+                "maqh": 242,
+                "tenqh": "Thị Xã An Khê",
+                "short_name": "/gia-lai/thi-xa-an-khe"
+            },
+            {
+                "maqh": 251,
+                "tenqh": "Thị Xã Ayun Pa",
+                "short_name": "/gia-lai/thi-xa-ayun-pa"
+            },
+            {
+                "maqh": 310,
+                "tenqh": "Huyện Kông Chro",
+                "short_name": "/gia-lai/huyen-kong-chro"
+            },
+            {
+                "maqh": 411,
+                "tenqh": "Huyện Chư Pưh",
+                "short_name": "/gia-lai/huyen-chu-puh"
+            },
+            {
+                "maqh": 478,
+                "tenqh": "Huyện Chư Prông",
+                "short_name": "/gia-lai/huyen-chu-prong"
+            },
+            {
+                "maqh": 579,
+                "tenqh": "Huyện Chư Sê",
+                "short_name": "/gia-lai/huyen-chu-se"
+            },
+            {
+                "maqh": 601,
+                "tenqh": "Huyện Chư Păh",
+                "short_name": "/gia-lai/huyen-chu-pah"
+            },
+            {
+                "maqh": 336,
+                "tenqh": "Huyện Đức Cơ",
+                "short_name": "/gia-lai/huyen-duc-co"
+            },
+            {
+                "maqh": 642,
+                "tenqh": "Huyện Đak Đoa",
+                "short_name": "/gia-lai/huyen-dak-doa"
+            },
+            {
+                "maqh": 674,
+                "tenqh": "Huyện ĐakPơ",
+                "short_name": "/gia-lai/huyen-dakpo"
+            },
+            {
+                "maqh": 734,
+                "tenqh": "Tỉnh Gia Lai",
+                "short_name": "/gia-lai/tinh-gia-lai"
+            },
+            {
+                "maqh": 600,
+                "tenqh": "Huyện Ia Grai",
+                "short_name": "/gia-lai/huyen-ia-grai"
+            },
+            {
+                "maqh": 497,
+                "tenqh": "Huyện Kbang",
+                "short_name": "/gia-lai/huyen-kbang"
+            },
+            {
+                "maqh": 500,
+                "tenqh": "Huyện Krông Pa",
+                "short_name": "/gia-lai/huyen-krong-pa"
+            },
+            {
+                "maqh": 641,
+                "tenqh": "Huyện IaPa",
+                "short_name": "/gia-lai/huyen-iapa"
+            },
+            {
+                "maqh": 735,
+                "tenqh": "Huyện Phú Thiện",
+                "short_name": "/gia-lai/huyen-phu-thien"
+            },
+            {
+                "maqh": 739,
+                "tenqh": "Huyện Mang Yang",
+                "short_name": "/gia-lai/huyen-mang-yang"
+            },
+            {
+                "maqh": 867,
+                "tenqh": "Huyện Ia Pa",
+                "short_name": "/gia-lai/huyen-ia-pa"
+            },
+            {
+                "maqh": 168,
+                "tenqh": "Thành Phố  Pleiku",
+                "short_name": "/gia-lai/thanh-pho-pleiku"
+            }
+        ]
+    },
+    {
+        "matinh": 54,
+        "tentinh": "Bắc Giang",
+        "short_name": "/bac-giang",
+        "quan_huyen": [
+            {
+                "maqh": 848,
+                "tenqh": "Số 104/2 Đường Lê Lai",
+                "short_name": "/bac-giang/so-104-2-duong-le-lai"
+            },
+            {
+                "maqh": 844,
+                "tenqh": "Số 350 Đường Lê Lợi",
+                "short_name": "/bac-giang/so-350-duong-le-loi"
+            },
+            {
+                "maqh": 843,
+                "tenqh": "Số 363 Đường Lê Lợi",
+                "short_name": "/bac-giang/so-363-duong-le-loi"
+            },
+            {
+                "maqh": 847,
+                "tenqh": "Số 364 Đường Xương Giang",
+                "short_name": "/bac-giang/so-364-duong-xuong-giang"
+            },
+            {
+                "maqh": 852,
+                "tenqh": "Cụm 5",
+                "short_name": "/bac-giang/cum-5"
+            },
+            {
+                "maqh": 851,
+                "tenqh": "Số 95 Liên Hương",
+                "short_name": "/bac-giang/so-95-lien-huong"
+            },
+            {
+                "maqh": 850,
+                "tenqh": "Đường Á Lữ",
+                "short_name": "/bac-giang/duong-a-lu"
+            },
+            {
+                "maqh": 180,
+                "tenqh": "Thành Phố  Bắc Giang",
+                "short_name": "/bac-giang/thanh-pho-bac-giang"
+            },
+            {
+                "maqh": 717,
+                "tenqh": "Tỉnh Bắc Giang",
+                "short_name": "/bac-giang/tinh-bac-giang"
+            },
+            {
+                "maqh": 518,
+                "tenqh": "Huyện Sơn Động",
+                "short_name": "/bac-giang/huyen-son-dong"
+            },
+            {
+                "maqh": 849,
+                "tenqh": "Thôn Trung Đồng",
+                "short_name": "/bac-giang/thon-trung-dong"
+            },
+            {
+                "maqh": 354,
+                "tenqh": "Huyện Yên Dũng",
+                "short_name": "/bac-giang/huyen-yen-dung"
+            },
+            {
+                "maqh": 846,
+                "tenqh": "Đường Ngô Gia Tự",
+                "short_name": "/bac-giang/duong-ngo-gia-tu"
+            },
+            {
+                "maqh": 467,
+                "tenqh": "Huyện Lạng Giang",
+                "short_name": "/bac-giang/huyen-lang-giang"
+            },
+            {
+                "maqh": 398,
+                "tenqh": "Huyện Hiệp Hoà",
+                "short_name": "/bac-giang/huyen-hiep-hoa"
+            },
+            {
+                "maqh": 181,
+                "tenqh": "Huyện Việt Yên",
+                "short_name": "/bac-giang/huyen-viet-yen"
+            },
+            {
+                "maqh": 349,
+                "tenqh": "Huyện Lục Nam",
+                "short_name": "/bac-giang/huyen-luc-nam"
+            },
+            {
+                "maqh": 484,
+                "tenqh": "Huyện Yên Thế",
+                "short_name": "/bac-giang/huyen-yen-the"
+            },
+            {
+                "maqh": 516,
+                "tenqh": "Huyện Lục Ngạn",
+                "short_name": "/bac-giang/huyen-luc-ngan"
+            },
+            {
+                "maqh": 517,
+                "tenqh": "Huyện Tân Yên",
+                "short_name": "/bac-giang/huyen-tan-yen"
+            }
+        ]
+    },
+    {
+        "matinh": 55,
+        "tentinh": "Hà Tĩnh",
+        "short_name": "/ha-tinh",
+        "quan_huyen": [
+            {
+                "maqh": 185,
+                "tenqh": "Thị Xã Kỳ Anh",
+                "short_name": "/ha-tinh/thi-xa-ky-anh"
+            },
+            {
+                "maqh": 337,
+                "tenqh": "Huyện Kỳ Anh",
+                "short_name": "/ha-tinh/huyen-ky-anh"
+            },
+            {
+                "maqh": 187,
+                "tenqh": "Huyện Cẩm Xuyên",
+                "short_name": "/ha-tinh/huyen-cam-xuyen"
+            },
+            {
+                "maqh": 260,
+                "tenqh": "Huyện Can Lộc",
+                "short_name": "/ha-tinh/huyen-can-loc"
+            },
+            {
+                "maqh": 197,
+                "tenqh": "Huyện Đức Thọ",
+                "short_name": "/ha-tinh/huyen-duc-tho"
+            },
+            {
+                "maqh": 184,
+                "tenqh": "Thành Phố Hà Tĩnh",
+                "short_name": "/ha-tinh/thanh-pho-ha-tinh"
+            },
+            {
+                "maqh": 302,
+                "tenqh": "Huyện Thạch Hà",
+                "short_name": "/ha-tinh/huyen-thach-ha"
+            },
+            {
+                "maqh": 330,
+                "tenqh": "Huyện Lộc Hà",
+                "short_name": "/ha-tinh/huyen-loc-ha"
+            },
+            {
+                "maqh": 763,
+                "tenqh": "Tỉnh Hà Tĩnh",
+                "short_name": "/ha-tinh/tinh-ha-tinh"
+            },
+            {
+                "maqh": 599,
+                "tenqh": "Thị Xã Hồng Lĩnh",
+                "short_name": "/ha-tinh/thi-xa-hong-linh"
+            },
+            {
+                "maqh": 329,
+                "tenqh": "Huyện Hương Sơn",
+                "short_name": "/ha-tinh/huyen-huong-son"
+            },
+            {
+                "maqh": 468,
+                "tenqh": "Huyện Hương Khê",
+                "short_name": "/ha-tinh/huyen-huong-khe"
+            },
+            {
+                "maqh": 186,
+                "tenqh": "Huyện Nghi Xuân",
+                "short_name": "/ha-tinh/huyen-nghi-xuan"
+            },
+            {
+                "maqh": 188,
+                "tenqh": "Huyện Vũ Quang",
+                "short_name": "/ha-tinh/huyen-vu-quang"
+            }
+        ]
+    },
+    {
+        "matinh": 56,
+        "tentinh": "Ninh Bình",
+        "short_name": "/ninh-binh",
+        "quan_huyen": [
+            {
+                "maqh": 200,
+                "tenqh": "Thành Phố Ninh Bình",
+                "short_name": "/ninh-binh/thanh-pho-ninh-binh"
+            },
+            {
+                "maqh": 559,
+                "tenqh": "Tỉnh Ninh Bình",
+                "short_name": "/ninh-binh/tinh-ninh-binh"
+            },
+            {
+                "maqh": 488,
+                "tenqh": "Thành Phố Tam Điệp",
+                "short_name": "/ninh-binh/thanh-pho-tam-diep"
+            },
+            {
+                "maqh": 306,
+                "tenqh": "Huyện Gia Viễn",
+                "short_name": "/ninh-binh/huyen-gia-vien"
+            },
+            {
+                "maqh": 530,
+                "tenqh": "Huyện Hoa Lư",
+                "short_name": "/ninh-binh/huyen-hoa-lu"
+            },
+            {
+                "maqh": 283,
+                "tenqh": "Huyện Kim Sơn",
+                "short_name": "/ninh-binh/huyen-kim-son"
+            },
+            {
+                "maqh": 293,
+                "tenqh": "Huyện Yên Mô",
+                "short_name": "/ninh-binh/huyen-yen-mo"
+            },
+            {
+                "maqh": 397,
+                "tenqh": "Huyện Nho Quan",
+                "short_name": "/ninh-binh/huyen-nho-quan"
+            },
+            {
+                "maqh": 519,
+                "tenqh": "Huyện Yên Khánh",
+                "short_name": "/ninh-binh/huyen-yen-khanh"
+            }
+        ]
+    },
+    {
+        "matinh": 57,
+        "tentinh": "Bình Thuận",
+        "short_name": "/binh-thuan",
+        "quan_huyen": [
+            {
+                "maqh": 426,
+                "tenqh": "Huyện Hàm Thuận Bắc",
+                "short_name": "/binh-thuan/huyen-ham-thuan-bac"
+            },
+            {
+                "maqh": 470,
+                "tenqh": "Huyện Bắc Bình",
+                "short_name": "/binh-thuan/huyen-bac-binh"
+            },
+            {
+                "maqh": 765,
+                "tenqh": "Tỉnh Bình Thuận",
+                "short_name": "/binh-thuan/tinh-binh-thuan"
+            },
+            {
+                "maqh": 589,
+                "tenqh": "Huyện Đức Linh",
+                "short_name": "/binh-thuan/huyen-duc-linh"
+            },
+            {
+                "maqh": 340,
+                "tenqh": "Thị Xã La Gi",
+                "short_name": "/binh-thuan/thi-xa-la-gi"
+            },
+            {
+                "maqh": 374,
+                "tenqh": "Huyện Hàm Thuận Nam",
+                "short_name": "/binh-thuan/huyen-ham-thuan-nam"
+            },
+            {
+                "maqh": 521,
+                "tenqh": "Huyện Hàm Tân",
+                "short_name": "/binh-thuan/huyen-ham-tan"
+            },
+            {
+                "maqh": 208,
+                "tenqh": "Huyện Tuy Phong",
+                "short_name": "/binh-thuan/huyen-tuy-phong"
+            },
+            {
+                "maqh": 366,
+                "tenqh": "Huyện Tánh Linh",
+                "short_name": "/binh-thuan/huyen-tanh-linh"
+            },
+            {
+                "maqh": 389,
+                "tenqh": "Huyện Phú Quý",
+                "short_name": "/binh-thuan/huyen-phu-quy"
+            },
+            {
+                "maqh": 887,
+                "tenqh": "Thôn Lương Trung",
+                "short_name": "/binh-thuan/thon-luong-trung"
+            },
+            {
+                "maqh": 218,
+                "tenqh": "Thành Phố  Phan Thiết",
+                "short_name": "/binh-thuan/thanh-pho-phan-thiet"
+            }
+        ]
+    },
+    {
+        "matinh": 58,
+        "tentinh": "Kon Tum",
+        "short_name": "/kon-tum",
+        "quan_huyen": [
+            {
+                "maqh": 454,
+                "tenqh": "Huyện Đák Hà",
+                "short_name": "/kon-tum/huyen-dak-ha"
+            },
+            {
+                "maqh": 605,
+                "tenqh": "Huyện Đắk Tô",
+                "short_name": "/kon-tum/huyen-dak-to"
+            },
+            {
+                "maqh": 653,
+                "tenqh": "Huyện Đắk Glei",
+                "short_name": "/kon-tum/huyen-dak-glei"
+            },
+            {
+                "maqh": 451,
+                "tenqh": "Huyện Ia H'Drai",
+                "short_name": "/kon-tum/huyen-ia-hdrai"
+            },
+            {
+                "maqh": 357,
+                "tenqh": "Huyện Ngọc Hồi",
+                "short_name": "/kon-tum/huyen-ngoc-hoi"
+            },
+            {
+                "maqh": 409,
+                "tenqh": "Huyện Kon Plông",
+                "short_name": "/kon-tum/huyen-kon-plong"
+            },
+            {
+                "maqh": 437,
+                "tenqh": "Huyện Kon Rẫy",
+                "short_name": "/kon-tum/huyen-kon-ray"
+            },
+            {
+                "maqh": 444,
+                "tenqh": "Huyện  Tu Mơ Rông",
+                "short_name": "/kon-tum/huyen-tu-mo-rong"
+            },
+            {
+                "maqh": 753,
+                "tenqh": "Huyện Sa Thầy",
+                "short_name": "/kon-tum/huyen-sa-thay"
+            },
+            {
+                "maqh": 225,
+                "tenqh": "Thành Phố Kon Tum",
+                "short_name": "/kon-tum/thanh-pho-kon-tum"
+            },
+            {
+                "maqh": 721,
+                "tenqh": "Tỉnh Kon Tum",
+                "short_name": "/kon-tum/tinh-kon-tum"
+            }
+        ]
+    },
+    {
+        "matinh": 59,
+        "tentinh": "Vĩnh Phúc",
+        "short_name": "/vinh-phuc",
+        "quan_huyen": [
+            {
+                "maqh": 267,
+                "tenqh": "Huyện Bình Xuyên",
+                "short_name": "/vinh-phuc/huyen-binh-xuyen"
+            },
+            {
+                "maqh": 680,
+                "tenqh": "Huyện Mê Linh (Chuyển Hà Nội)",
+                "short_name": "/vinh-phuc/huyen-me-linh-chuyen-ha-noi"
+            },
+            {
+                "maqh": 325,
+                "tenqh": "Huyện Tam Đảo",
+                "short_name": "/vinh-phuc/huyen-tam-dao"
+            },
+            {
+                "maqh": 509,
+                "tenqh": "Huyện Tam Dương",
+                "short_name": "/vinh-phuc/huyen-tam-duong"
+            },
+            {
+                "maqh": 229,
+                "tenqh": "Huyện Yên Lạc",
+                "short_name": "/vinh-phuc/huyen-yen-lac"
+            },
+            {
+                "maqh": 266,
+                "tenqh": "Huyện Vĩnh Tường",
+                "short_name": "/vinh-phuc/huyen-vinh-tuong"
+            },
+            {
+                "maqh": 326,
+                "tenqh": "Huyện Lập Thạch",
+                "short_name": "/vinh-phuc/huyen-lap-thach"
+            },
+            {
+                "maqh": 604,
+                "tenqh": "Huyện Sông Lô",
+                "short_name": "/vinh-phuc/huyen-song-lo"
+            },
+            {
+                "maqh": 246,
+                "tenqh": "Thành Phố Vĩnh Yên",
+                "short_name": "/vinh-phuc/thanh-pho-vinh-yen"
+            },
+            {
+                "maqh": 841,
+                "tenqh": "Thành Phố Phúc Yên",
+                "short_name": "/vinh-phuc/thanh-pho-phuc-yen"
+            },
+            {
+                "maqh": 508,
+                "tenqh": "Thị Xã Phúc Yên",
+                "short_name": "/vinh-phuc/thi-xa-phuc-yen"
+            },
+            {
+                "maqh": 687,
+                "tenqh": "Tỉnh Vĩnh Phúc",
+                "short_name": "/vinh-phuc/tinh-vinh-phuc"
+            }
+        ]
+    },
+    {
+        "matinh": 60,
+        "tentinh": "Bạc Liêu",
+        "short_name": "/bac-lieu",
+        "quan_huyen": [
+            {
+                "maqh": 272,
+                "tenqh": "Thành Phố Bạc Liêu",
+                "short_name": "/bac-lieu/thanh-pho-bac-lieu"
+            },
+            {
+                "maqh": 673,
+                "tenqh": "Tỉnh Bạc Liêu",
+                "short_name": "/bac-lieu/tinh-bac-lieu"
+            },
+            {
+                "maqh": 561,
+                "tenqh": "Huyện Hoà Bình",
+                "short_name": "/bac-lieu/huyen-hoa-binh"
+            },
+            {
+                "maqh": 472,
+                "tenqh": "Huyện Hồng Dân",
+                "short_name": "/bac-lieu/huyen-hong-dan"
+            },
+            {
+                "maqh": 439,
+                "tenqh": "Huyện Đông Hải",
+                "short_name": "/bac-lieu/huyen-dong-hai"
+            },
+            {
+                "maqh": 234,
+                "tenqh": "Thị Xã Giá Rai",
+                "short_name": "/bac-lieu/thi-xa-gia-rai"
+            },
+            {
+                "maqh": 533,
+                "tenqh": "Huyện Phước Long",
+                "short_name": "/bac-lieu/huyen-phuoc-long"
+            },
+            {
+                "maqh": 583,
+                "tenqh": "Huyện Vĩnh Lợi",
+                "short_name": "/bac-lieu/huyen-vinh-loi"
+            }
+        ]
+    },
+    {
+        "matinh": 61,
+        "tentinh": "Yên Bái",
+        "short_name": "/yen-bai",
+        "quan_huyen": [
+            {
+                "maqh": 903,
+                "tenqh": "Tổ 5",
+                "short_name": "/yen-bai/to-5"
+            },
+            {
+                "maqh": 513,
+                "tenqh": "Thành Phố  Yên Bái",
+                "short_name": "/yen-bai/thanh-pho-yen-bai"
+            },
+            {
+                "maqh": 743,
+                "tenqh": "Tỉnh Yên Bái",
+                "short_name": "/yen-bai/tinh-yen-bai"
+            },
+            {
+                "maqh": 463,
+                "tenqh": "Huyện Yên Bình",
+                "short_name": "/yen-bai/huyen-yen-binh"
+            },
+            {
+                "maqh": 661,
+                "tenqh": "Huyện Mù Cang Chải",
+                "short_name": "/yen-bai/huyen-mu-cang-chai"
+            },
+            {
+                "maqh": 582,
+                "tenqh": "Huyện Văn Chấn",
+                "short_name": "/yen-bai/huyen-van-chan"
+            },
+            {
+                "maqh": 908,
+                "tenqh": "Đường Trần Nguyên Hãn",
+                "short_name": "/yen-bai/duong-tran-nguyen-han"
+            },
+            {
+                "maqh": 321,
+                "tenqh": "Huyện Văn Yên",
+                "short_name": "/yen-bai/huyen-van-yen"
+            },
+            {
+                "maqh": 504,
+                "tenqh": "Huyện Trấn Yên",
+                "short_name": "/yen-bai/huyen-tran-yen"
+            },
+            {
+                "maqh": 594,
+                "tenqh": "Huyện Lục Yên",
+                "short_name": "/yen-bai/huyen-luc-yen"
+            },
+            {
+                "maqh": 675,
+                "tenqh": "Huyện Trạm Tấu",
+                "short_name": "/yen-bai/huyen-tram-tau"
+            },
+            {
+                "maqh": 499,
+                "tenqh": "Thị Xã Nghĩa Lộ",
+                "short_name": "/yen-bai/thi-xa-nghia-lo"
+            }
+        ]
+    },
+    {
+        "matinh": 62,
+        "tentinh": "Điện Biên",
+        "short_name": "/dien-bien",
+        "quan_huyen": [
+            {
+                "maqh": 665,
+                "tenqh": "Huyện Mường Ảng",
+                "short_name": "/dien-bien/huyen-muong-ang"
+            },
+            {
+                "maqh": 361,
+                "tenqh": "Huyện Điện Biên",
+                "short_name": "/dien-bien/huyen-dien-bien"
+            },
+            {
+                "maqh": 452,
+                "tenqh": "Thành Phố Điện Biên Phủ",
+                "short_name": "/dien-bien/thanh-pho-dien-bien-phu"
+            },
+            {
+                "maqh": 693,
+                "tenqh": "Huyện Điện Biên Đông",
+                "short_name": "/dien-bien/huyen-dien-bien-dong"
+            },
+            {
+                "maqh": 697,
+                "tenqh": "Tỉnh Điện Biên",
+                "short_name": "/dien-bien/tinh-dien-bien"
+            },
+            {
+                "maqh": 781,
+                "tenqh": "Tp Điện Biên Phủ",
+                "short_name": "/dien-bien/tp-dien-bien-phu"
+            },
+            {
+                "maqh": 636,
+                "tenqh": "Huyện Mường Chà",
+                "short_name": "/dien-bien/huyen-muong-cha"
+            },
+            {
+                "maqh": 741,
+                "tenqh": "Huyện Tủa Chùa",
+                "short_name": "/dien-bien/huyen-tua-chua"
+            },
+            {
+                "maqh": 696,
+                "tenqh": "Huyện Tuần Giáo",
+                "short_name": "/dien-bien/huyen-tuan-giao"
+            },
+            {
+                "maqh": 348,
+                "tenqh": "Huyện Nậm Pồ",
+                "short_name": "/dien-bien/huyen-nam-po"
+            },
+            {
+                "maqh": 755,
+                "tenqh": "Huyện Mường Nhé",
+                "short_name": "/dien-bien/huyen-muong-nhe"
+            },
+            {
+                "maqh": 356,
+                "tenqh": "Thị Xã Mường Lay",
+                "short_name": "/dien-bien/thi-xa-muong-lay"
+            }
+        ]
+    },
+    {
+        "matinh": 63,
+        "tentinh": "Hà Giang",
+        "short_name": "/ha-giang",
+        "quan_huyen": [
+            {
+                "maqh": 486,
+                "tenqh": "Huyện Quản Bạ",
+                "short_name": "/ha-giang/huyen-quan-ba"
+            },
+            {
+                "maqh": 450,
+                "tenqh": "Huyện Bắc Mê",
+                "short_name": "/ha-giang/huyen-bac-me"
+            },
+            {
+                "maqh": 558,
+                "tenqh": "Huyện Bắc Quang",
+                "short_name": "/ha-giang/huyen-bac-quang"
+            },
+            {
+                "maqh": 647,
+                "tenqh": "Huyện Quang Bình",
+                "short_name": "/ha-giang/huyen-quang-binh"
+            },
+            {
+                "maqh": 702,
+                "tenqh": "Huyện Đồng Văn",
+                "short_name": "/ha-giang/huyen-dong-van"
+            },
+            {
+                "maqh": 462,
+                "tenqh": "Thành Phố Hà Giang",
+                "short_name": "/ha-giang/thanh-pho-ha-giang"
+            },
+            {
+                "maqh": 738,
+                "tenqh": "Tỉnh Hà Giang",
+                "short_name": "/ha-giang/tinh-ha-giang"
+            },
+            {
+                "maqh": 780,
+                "tenqh": "Tp Hà Giang",
+                "short_name": "/ha-giang/tp-ha-giang"
+            },
+            {
+                "maqh": 676,
+                "tenqh": "Huyện Hoàng Su Phì",
+                "short_name": "/ha-giang/huyen-hoang-su-phi"
+            },
+            {
+                "maqh": 362,
+                "tenqh": "Huyện Vị Xuyên",
+                "short_name": "/ha-giang/huyen-vi-xuyen"
+            },
+            {
+                "maqh": 565,
+                "tenqh": "Huyện Xín Mần",
+                "short_name": "/ha-giang/huyen-xin-man"
+            },
+            {
+                "maqh": 684,
+                "tenqh": "Huyện Yên Minh",
+                "short_name": "/ha-giang/huyen-yen-minh"
+            },
+            {
+                "maqh": 703,
+                "tenqh": "Huyện Mèo Vạc",
+                "short_name": "/ha-giang/huyen-meo-vac"
+            }
+        ]
+    },
+    {
+        "matinh": 64,
+        "tentinh": "Chưa rõ",
+        "short_name": "/chua-ro",
+        "quan_huyen": [
+            {
+                "maqh": 724,
+                "tenqh": "Chưa rõ",
+                "short_name": "/chua-ro/chua-ro"
+            }
+        ]
+    }
+]
