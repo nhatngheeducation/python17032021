@@ -25,3 +25,11 @@ def query_data(conn, query_statement):
     cursor = conn.cursor()
     cursor.execute(query_statement)
     return cursor.fetchall()
+
+
+# Thêm mới và trả về mã vừa thêm
+def insert_and_get_inserted_id(conn, query_statement):
+    cursor = conn.cursor()
+    cursor.execute(query_statement)
+    conn.commit()
+    return cursor.lastrowid
