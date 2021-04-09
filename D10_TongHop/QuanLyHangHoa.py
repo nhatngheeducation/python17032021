@@ -2,6 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 from functools import partial
 import dbcommon
+import ManHinhThemHangHoa as mhTHH
 
 db_name="pythonsqlite.db"
 
@@ -59,12 +60,17 @@ root.geometry("+{}+{}".format(paddingWidth, paddingHeight))
 
 # Xu ly menu
 xulyThemLoai = partial(openThemLoai)
+xulyThemHangHoa = partial(mhTHH.openManHinhThemHangHoa,root)
 
 # Menu
 menubar = Menu(root)
 mnuHeThong = Menu(menubar, tearoff=0)
 mnuHeThong.add_command(label="Them loai", command=xulyThemLoai)
 menubar.add_cascade(label="Quan ly Loai", menu=mnuHeThong)
+
+mnuHangHoa = Menu(menubar, tearoff=0)
+mnuHangHoa.add_command(label="Thêm hàng hóa", command=xulyThemHangHoa)
+menubar.add_cascade(label="Quản lý Hàng hóa", menu=mnuHangHoa)
 
 root.config(menu=menubar)
 
