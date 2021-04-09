@@ -8,18 +8,34 @@ db_name="pythonsqlite.db"
 
 # Man hinh them loai
 def openThemLoai():
-    def xu_ly_them_loai(ten_loai):
-        sql = f"SELECT * FROM Loai WHERE TenLoai='{ten_loai}'"
-        conn = dbcommon.sql_connection(db_name)
-        result = dbcommon.query_data(conn, sql)
-        if len(result) > 0:
-            messagebox.showwarning(title="Thông báo",
-                message=f"Đã có loại {ten_loai}")
-        else:
-            sqlInsert=f"INSERT INTO Loai(TenLoai) VALUES('{ten_loai}')"
-        conn.close()
-
     mhThemLoai = Toplevel(root)
+
+    def xu_ly_them_loai(ten_loai):
+        try:
+            sql = f"SELECT * FROM Loai WHERE TenLoai='{ten_loai.get()}'"
+            conn = dbcommon.sql_connection(db_name)
+            result = dbcommon.query_data(conn, sql)
+            print(result)
+            if len(result) > 0:
+                messagebox.showwarning(title="Thông báo",
+                    message=f"Đã có loại {ten_loai.get()}")
+            else:
+                sqlInsert=f"INSERT INTO Loai(TenLoai) VALUES('{ten_loai.get()}')"
+                idloai = dbcommon.insert_and_get_inserted_id(conn, sqlInsert)
+                message=f"Đã thêm loại ({idloai}, {ten_loai.get()})."\
+                    + "\n Tiếp tục không?"
+                traloi=messagebox.askyesno("Hỏi", message)
+                if traloi == True:
+                    ten_loai.set("")
+                else:
+                    mhThemLoai.destroy()
+        except Exception as e:
+            print(e)
+        finally:
+            if conn:
+                conn.close()
+
+
     mhThemLoai.geometry("250x200")
     mhThemLoai.title("Thêm loại")
     Label(mhThemLoai, text="Tên loại").grid(row=0, column=0)
