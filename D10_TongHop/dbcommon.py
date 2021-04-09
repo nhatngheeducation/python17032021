@@ -18,3 +18,10 @@ def create_table(connection, create_table_sql):
         connection.commit()
     except Exception as ex:
         print(ex)
+
+
+# Truy vân lấy dữ liệu
+def query_data(conn, query_statement):
+    cursor = conn.cursor()
+    cursor.execute(query_statement)
+    return cursor.fetchall()
