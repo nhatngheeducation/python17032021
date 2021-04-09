@@ -1,7 +1,14 @@
 from tkinter import *
 from tkinter import ttk
+import dbcommon
+from functools import partial
+db_name="pythonsqlite.db"
 
 def openManHinhThemHangHoa(mainScreen):
+    def ham_xu_ly_them_hang_hoa(cboLoai):
+        print(type(cboLoai))
+        print("Loai dang chon: ", cboLoai.get())
+
     mhThemHangHoa = Toplevel(mainScreen)
     mhThemHangHoa.geometry("350x300")
 
@@ -28,12 +35,21 @@ def openManHinhThemHangHoa(mainScreen):
     Entry(mhThemHangHoa, textvariable=sku).grid(row=4, column=1)
 
     # ComboBox Thành phố
-    maloai = StringVar()
-    dsLoai = ('HCM', 'Ha Noi', "Can Tho",
-                  'Da Nang')
+    maloai = StringVar
+    dsLoai = []
+    sql = f"SELECT * FROM Loai ORDER BY TenLoai"
+    conn = dbcommon.sql_connection(db_name)
+    result = dbcommon.query_data(conn, sql)
+    conn.close()
+    for loai in result:
+        dsLoai.append((loai[0], loai[1]))
+    print(dsLoai)
     Label(mhThemHangHoa, text="Loại").grid(row=5, column=0)
-    ttk.Combobox(mhThemHangHoa,textvariable=maloai,
+    cboLoai = ttk.Combobox(mhThemHangHoa,
                                values=dsLoai).grid(row=5, column=1)
-    Button(mhThemHangHoa, text="Thêm hàng hóa").grid(row=6, column=1)
+    processInsertpro = partial(ham_xu_ly_them_hang_hoa, cboLoai)
+
+    Button(mhThemHangHoa, text="Thêm hàng hóa",
+           command=processInsertpro).grid(row=6, column=1)
 
     mhThemHangHoa.mainloop()
