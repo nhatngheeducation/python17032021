@@ -17,7 +17,6 @@ finally:
 
 diem_so = 7.8
 la_nam_nhuan = True
-la_nam_nhuan = False
 
 
 # Định nghĩa hàm in bảng cửu chương
