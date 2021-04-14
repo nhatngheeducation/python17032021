@@ -23,8 +23,14 @@ svdata = [
     }
 ]
 
+# pip install pdfkit
+# import pdfkit
+# Install wkhtmltopdf
 for sv in svdata:
     result = template.render(info=sv)
-    with open(f"sv_{sv['maso']}.html", "w",
+    filename = f"sv_{sv['maso']}"
+    with open(f"{filename}.html", "w",
               encoding="utf-8") as myfile:
         myfile.write(result)
+    # Convert html to pdf
+    # pdfkit.from_file(f"{filename}.html", f"{filename}.pdf")
