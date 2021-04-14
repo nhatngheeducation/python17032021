@@ -6,12 +6,25 @@
 <body>
 
 <h2>BẢNG ĐIỂM</h2>
-<div>Họ tên: <b>Tèo</b></div>
-<div>Mã số: <i>11020202</i></div>
+<div>Họ tên: <b>{{ info.hoten }}</b></div>
+<div>Mã số: <i>{{ info.maso }}</i></div>
 <table border="1" cellpadding="5" cellspacing="0">
 	<tr>
     	<th>Môn</th><th>Điểm</th><th>Kết quả</th>
     </tr>
+    {% for monhoc in info.ketqua %}
+        <tr>
+            <td>{{ monhoc.tenmon }}</td>
+            <td>{{ monhoc.diem }}</td>
+            <td>
+                {% if monhoc.diem > 5 %}
+                    Đậu
+                {% else %}
+                    Rớt
+                {% endif %}
+            </td>
+        </tr>
+    {% endfor %}
 </table>
 </body>
 </html>
