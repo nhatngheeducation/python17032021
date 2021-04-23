@@ -1,4 +1,6 @@
 # api.py
+from typing import List
+
 from fastapi import FastAPI, File, Form, UploadFile
 import os
 import shutil
@@ -25,3 +27,11 @@ def upload_single_file(image: UploadFile = File(...)):
         }
     except Exception as e:
         print(e)
+
+@app.post("/upload-multiple", tags=["Upload file"])
+def upload_multi_file(images: List[UploadFile] = File(...)):
+    for image in images:
+        full_path = os.path.join(ROOT_DIRECTORY, "data",
+                                 image.filename)
+        with open(full_path, "wb") as myfile:
+            shutil.copyfileobj(image.file, myfile)
