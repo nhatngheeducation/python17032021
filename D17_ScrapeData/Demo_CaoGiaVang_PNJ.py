@@ -4,6 +4,16 @@ import schedule
 import time
 
 
+def tra_cuu_lich_mat_dien(pe):
+    url = 'https://cskh.evnhcmc.vn/tracuu/ajax_thongTinCungCapDien_result'
+    myobj = {
+        'input_makh': pe,
+        'tungay': '26/04/2021',
+        'denngay': '03/05/2021'
+    }
+    x = requests.post(url, data=myobj, verify=False)
+    print(x.text)
+
 def scrape_pnj_price():
     pnjObj = requests.get("https://giavang.pnj.com.vn/")
     textContent = pnjObj.text
@@ -24,6 +34,8 @@ def scrape_pnj_price():
 
 schedule.every(7).seconds.do(scrape_pnj_price)
 
-while True: 
-    schedule.run_pending()
-    time.sleep(1)
+# while True:
+#     schedule.run_pending()
+#     time.sleep(1)
+
+tra_cuu_lich_mat_dien('PE04000246146')
