@@ -25,3 +25,18 @@ pip install pytesseract
 pip install jinja2
 
 pip install opencv-python
+
+# Restore project
+
+1. Create a virtual environment:
+(Windows):
++ python -m venv <myenv>
++ cd myenv/Scripts
++ activate
+
+(Linux)
++ venv <myenv>
++ source myenv/bin/activate
+
+2. Install packages
+pip install -r requirements.txt
