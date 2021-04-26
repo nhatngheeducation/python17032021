@@ -14,8 +14,9 @@ print(f"Tong thoi gian chay: ", time_stop - time_start)
 time_start = time.time()
 threadLock = threading.Lock()
 threads = []
-thread1 = threading.Thread(scrape_pnj_price, )
-thread2 = threading.Thread(tra_cuu_lich_mat_dien, 'PE04000246146', )
+thread1 = threading.Thread(target=scrape_pnj_price, )
+thread2 = threading.Thread(target=tra_cuu_lich_mat_dien,
+                           args=('PE04000246146', ))
 thread1.start()
 thread2.start()
 threads.append(thread1)
