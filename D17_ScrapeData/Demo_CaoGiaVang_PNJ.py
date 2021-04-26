@@ -1,5 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
+import schedule
+import time
 
 
 def scrape_pnj_price():
@@ -18,3 +20,10 @@ def scrape_pnj_price():
 
     print(data)
     # Process data nhận được
+
+
+schedule.every(7).seconds.do(scrape_pnj_price)
+
+while True: 
+    schedule.run_pending()
+    time.sleep(1)
