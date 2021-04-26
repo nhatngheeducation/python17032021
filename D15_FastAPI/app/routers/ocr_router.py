@@ -4,6 +4,7 @@ import shutil
 import uuid
 from app.services import ocr_service as ocr
 from fastapi.templating import Jinja2Templates
+from pathlib import Path
 
 
 router = APIRouter()
@@ -17,8 +18,10 @@ def home(request: Request):
 
 @router.post("/extract_text")
 async def extract_text(image: UploadFile = File(...)):
-    temp_file = _save_file_to_disk(image, path="temp", save_as="temp")
-    text = await ocr.read_image(temp_file)
+    temp_file = _save_file_to_disk(image, path="temp", save_as="temp_" + image.filename)
+    directory_main = Path(os.path.dirname(__file__)).resolve().parents[1]
+    full_path = os.path.join(directory_main, temp_file)
+    text = await ocr.read_image(full_path)
     return {"filename": image.filename, "text": text}
 
 
@@ -45,8 +48,7 @@ async def bulk_output(task_id):
 
 
 def _save_file_to_disk(uploaded_file, path=".", save_as="default"):
-    extension = os.path.splitext(uploaded_file.filename)[-1]
-    temp_file = os.path.join(path, save_as + extension)
+    temp_file = os.path.join(path, save_as)
     with open(temp_file, "wb") as buffer:
         shutil.copyfileobj(uploaded_file.file, buffer)
     return temp_file

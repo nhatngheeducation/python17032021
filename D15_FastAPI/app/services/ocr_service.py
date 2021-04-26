@@ -1,6 +1,7 @@
 import pytesseract
 import os
 import sys
+import cv2
 
 
 async def read_image(img_path, lang='eng'):
@@ -13,7 +14,10 @@ async def read_image(img_path, lang='eng'):
     """
 
     try:
-        return pytesseract.image_to_string(img_path, lang=lang)
+
+        # return pytesseract.image_to_string(img_path, lang=lang)
+        img = cv2.imread(img_path)
+        return pytesseract.image_to_string(img, lang=lang)
     except:
         return "[ERROR] Unable to process file: {0}".format(img_path)
 
