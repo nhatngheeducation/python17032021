@@ -1,1 +1,3 @@
-Web Scrapping
+DB --> Excel
+CSV/Excel --> DB
+xlwings
