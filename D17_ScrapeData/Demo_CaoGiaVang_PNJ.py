@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 import schedule
-import time
 
 
 def tra_cuu_lich_mat_dien(pe):
@@ -32,10 +31,11 @@ def scrape_pnj_price():
     # Process data nhận được
 
 
-schedule.every(7).seconds.do(scrape_pnj_price)
+# schedule.every(7).seconds.do(scrape_pnj_price)
 
 # while True:
 #     schedule.run_pending()
 #     time.sleep(1)
 
-tra_cuu_lich_mat_dien('PE04000246146')
+# scrape_pnj_price()
+# tra_cuu_lich_mat_dien('PE04000246146')
