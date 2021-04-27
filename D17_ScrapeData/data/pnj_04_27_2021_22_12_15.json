@@ -1,0 +1,37 @@
+[
+    {
+        "name": "PNJ",
+        "price_in": "5,240,000",
+        "price_out": "5,340,000"
+    },
+    {
+        "name": "SJC",
+        "price_in": "5,520,000",
+        "price_out": "5,560,000"
+    },
+    {
+        "name": "Nhẫn PNJ (24K)",
+        "price_in": "5,230,000",
+        "price_out": "5,290,000"
+    },
+    {
+        "name": "Nữ trang 24K",
+        "price_in": "5,170,000",
+        "price_out": "5,250,000"
+    },
+    {
+        "name": "Nữ trang 18K",
+        "price_in": "3,813,000",
+        "price_out": "3,953,000"
+    },
+    {
+        "name": "Nữ trang 14K",
+        "price_in": "2,946,000",
+        "price_out": "3,086,000"
+    },
+    {
+        "name": "Nữ trang 10K",
+        "price_in": "2,059,000",
+        "price_out": "2,199,000"
+    }
+]

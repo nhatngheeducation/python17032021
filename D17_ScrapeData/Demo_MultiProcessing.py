@@ -3,6 +3,7 @@ from multiprocessing import Process
 
 print(f"May co {multiprocessing.cpu_count()} CPU")
 
+
 def print_func(continent='Asia'):
     print('The name of continent is : ', continent)
 
