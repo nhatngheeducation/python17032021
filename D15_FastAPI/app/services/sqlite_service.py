@@ -42,7 +42,4 @@ def them_hang_hoa(connection, hang_hoa_obj):
 def query_data_by_statement(conn, query_statement):
     cursor = conn.cursor()
     cursor.execute(query_statement)
-    result = cursor.fetchall()
-
-    for row in result:
-        print(row)
+    return cursor.fetchall()
