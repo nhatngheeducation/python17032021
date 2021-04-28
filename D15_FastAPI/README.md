@@ -26,6 +26,8 @@ pip install jinja2
 
 pip install opencv-python
 
+pip install openpyxl
+
 # Restore project
 
 1. Create a virtual environment:
@@ -35,6 +37,7 @@ pip install opencv-python
 + activate
 
 (Linux)
+
 + venv <myenv>
 + source myenv/bin/activate
 
