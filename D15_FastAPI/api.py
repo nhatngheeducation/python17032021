@@ -5,6 +5,7 @@ import os
 import shutil
 from app.routers.user_router import router as user_router
 from app.routers.ocr_router import router as ocr_router
+from app.routers.sqlite_router import router as sqlite_router
 
 
 app = FastAPI()
@@ -17,6 +18,7 @@ def root():
 
 app.include_router(user_router, tags=["Users"], prefix="/users")
 app.include_router(ocr_router, tags=["Ocr Tools"], prefix="/api/v1/ocr")
+app.include_router(sqlite_router, tags=["QLHangHoa"], prefix="/hanghoa")
 
 ROOT_DIRECTORY = os.getcwd()
 
