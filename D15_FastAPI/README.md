@@ -28,10 +28,14 @@ pip install opencv-python
 
 pip install openpyxl
 
+pip install aiofiles
+
 # Restore project
 
 1. Create a virtual environment:
+
 (Windows):
+
 + python -m venv <myenv>
 + cd myenv/Scripts
 + activate
